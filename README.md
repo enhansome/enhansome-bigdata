@@ -1,8 +1,8 @@
 # Awesome Big Data with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 498,094 | 🐛 105 | 📅 2026-08-18
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 498,526 | 🐛 105 | 📅 2026-08-21
 
-A curated list of awesome big data frameworks, resources and other awesomeness. Inspired by [awesome-php](https://github.com/ziadoz/awesome-php) ⭐ 32,663 | 🐛 85 | 📅 2026-07-13, [awesome-python](https://github.com/vinta/awesome-python) ⭐ 315,096 | 🐛 17 | 🌐 Python | 📅 2026-08-16, [awesome-ruby](https://github.com/Sdogruyol/awesome-ruby) ⚠️ Archived, [hadoopecosystemtable](http://hadoopecosystemtable.github.io/) & [big-data](http://usefulstuff.io/big-data/).
+A curated list of awesome big data frameworks, resources and other awesomeness. Inspired by [awesome-php](https://github.com/ziadoz/awesome-php) ⭐ 32,665 | 🐛 86 | 📅 2026-07-13, [awesome-python](https://github.com/vinta/awesome-python) ⭐ 315,266 | 🐛 17 | 🌐 Python | 📅 2026-08-21, [awesome-ruby](https://github.com/Sdogruyol/awesome-ruby) ⚠️ Archived, [hadoopecosystemtable](http://hadoopecosystemtable.github.io/) & [big-data](http://usefulstuff.io/big-data/).
 
 Your contributions are always welcome!
 
@@ -62,8 +62,8 @@ Your contributions are always welcome!
 
 ## Frameworks
 
-* [Polyaxon](https://github.com/polyaxon/polyaxon) ⭐ 3,721 | 🐛 126 | 🌐 MDX | 📅 2026-08-20 - A platform for reproducible and scalable machine learning and deep learning.
-* [Numaflow](https://github.com/numaproj/numaflow) ⭐ 2,825 | 🐛 285 | 🌐 Rust | 📅 2026-08-19 - Kubernetes-native stream processing platform.
+* [Polyaxon](https://github.com/polyaxon/polyaxon) ⭐ 3,722 | 🐛 126 | 🌐 MDX | 📅 2026-08-20 - A platform for reproducible and scalable machine learning and deep learning.
+* [Numaflow](https://github.com/numaproj/numaflow) ⭐ 2,825 | 🐛 287 | 🌐 Rust | 📅 2026-08-21 - Kubernetes-native stream processing platform.
 * [Bistro](https://github.com/facebook/bistro) ⚠️ Archived - general-purpose data processing engine for both batch and stream analytics. It is based on a novel data model, which represents data via *functions* and processes data via *column operations* as opposed to having only set operations in conventional approaches like MapReduce or SQL.
 * [Smooks](https://github.com/smooks/smooks) ⭐ 417 | 🐛 35 | 🌐 Java | 📅 2025-11-24 - An extensible Java framework for building XML and non-XML (CSV, EDI, Java, etc...) streaming applications.
 * [Tigon](https://github.com/caskdata/tigon) ⚠️ Archived - High Throughput Real-time Stream Processing Framework.
@@ -73,9 +73,9 @@ Your contributions are always welcome!
 
 ## Distributed Programming
 
-* [Ray](https://github.com/ray-project/ray) ⭐ 43,568 | 🐛 3,513 | 🌐 Python | 📅 2026-08-20 - A fast and simple framework for building and running distributed applications.
+* [Ray](https://github.com/ray-project/ray) ⭐ 43,578 | 🐛 3,523 | 🌐 Python | 📅 2026-08-21 - A fast and simple framework for building and running distributed applications.
 * [Twitter Heron](https://github.com/twitter/heron) ⚠️ Archived - Heron is a realtime, distributed, fault-tolerant stream processing engine from Twitter replacing Storm.
-* [Twitter Scalding](https://github.com/twitter/scalding) ⭐ 3,523 | 🐛 317 | 🌐 Scala | 📅 2023-05-28 - Scala library for Map Reduce jobs, built on Cascading.
+* [Twitter Scalding](https://github.com/twitter/scalding) ⭐ 3,522 | 🐛 317 | 🌐 Scala | 📅 2023-05-28 - Scala library for Map Reduce jobs, built on Cascading.
 * [Twitter Summingbird](https://github.com/twitter/summingbird) ⚠️ Archived - Streaming MapReduce with Scalding and Storm, by Twitter.
 * [Netflix PigPen](https://github.com/Netflix/PigPen) ⭐ 564 | 🐛 19 | 🌐 Clojure | 📅 2023-04-10 - map-reduce for Clojure which compiles to Apache Pig.
 * [AddThis Hydra](https://github.com/addthis/hydra) ⚠️ Archived - distributed data processing and storage system originally developed at AddThis.
@@ -130,9 +130,9 @@ Your contributions are always welcome!
 
 ## Distributed Filesystem
 
-* [JuiceFS](https://github.com/juicedata/juicefs) ⭐ 14,346 | 🐛 200 | 🌐 Go | 📅 2026-08-20 - distributed POSIX file system built on object storage.
+* [JuiceFS](https://github.com/juicedata/juicefs) ⭐ 14,351 | 🐛 195 | 🌐 Go | 📅 2026-08-21 - distributed POSIX file system built on object storage.
 * [Baidu File System](https://github.com/baidu/bfs) ⭐ 2,847 | 🐛 119 | 🌐 C++ | 📅 2018-12-03 - distributed filesystem.
-* [Ambry](https://github.com/linkedin/ambry) ⭐ 1,785 | 🐛 139 | 🌐 Java | 📅 2026-08-20 - a distributed object store that supports storage of trillion of small immutable objects as well as billions of large objects.
+* [Ambry](https://github.com/linkedin/ambry) ⭐ 1,785 | 🐛 141 | 🌐 Java | 📅 2026-08-21 - a distributed object store that supports storage of trillion of small immutable objects as well as billions of large objects.
 * [Seaweed-FS](https://github.com/chrislusf/seaweedfs) ⭐ 36 | 🐛 1 | 🌐 Go | 📅 2026-07-21 - simple and highly scalable distributed file system.
 * [Apache HDFS](http://hadoop.apache.org/) - a way to store large files across multiple machines.
 * [Apache Kudu](http://kudu.apache.org/) - Hadoop's storage layer to enable fast analytics on fast data.
@@ -194,13 +194,13 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 
 ## Key-value Data Model
 
-* [TiKV](https://github.com/pingcap/tikv) ⭐ 16,808 | 🐛 1,804 | 🌐 Rust | 📅 2026-08-20 - a distributed key-value database powered by Rust and inspired by Google Spanner and HBase.
+* [TiKV](https://github.com/pingcap/tikv) ⭐ 16,806 | 🐛 1,806 | 🌐 Rust | 📅 2026-08-21 - a distributed key-value database powered by Rust and inspired by Google Spanner and HBase.
 * [Bolt](https://github.com/boltdb/bolt) ⚠️ Archived - an embedded key-value database for Go.
 * [Tile38](https://github.com/tidwall/tile38) ⭐ 9,715 | 🐛 163 | 🌐 Go | 📅 2026-08-07 - a geolocation data store, spatial index, and realtime geofence, supporting a variety of object types including latitude/longitude points, bounding boxes, XYZ tiles, Geohashes, and GeoJSON
 * [BuntDB](https://github.com/tidwall/buntdb) ⭐ 4,863 | 🐛 32 | 🌐 Go | 📅 2026-05-19 - a fast, embeddable, in-memory key/value database for Go with custom indexing and geospatial support.
-* [Riak](https://github.com/basho/riak) ⭐ 4,028 | 🐛 150 | 🌐 Shell | 📅 2026-08-14 - a decentralized datastore.
-* [Tarantool](https://github.com/tarantool/tarantool) ⭐ 3,663 | 🐛 1,694 | 🌐 Lua | 📅 2026-08-20 - an efficient NoSQL database and a Lua application server.
-* [GridDB](https://github.com/griddb/griddb_nosql) ⭐ 2,476 | 🐛 51 | 🌐 C++ | 📅 2026-03-19 - suitable for sensor data stored in a timeseries.
+* [Riak](https://github.com/basho/riak) ⭐ 4,027 | 🐛 150 | 🌐 Shell | 📅 2026-08-14 - a decentralized datastore.
+* [Tarantool](https://github.com/tarantool/tarantool) ⭐ 3,664 | 🐛 1,697 | 🌐 Lua | 📅 2026-08-21 - an efficient NoSQL database and a Lua application server.
+* [GridDB](https://github.com/griddb/griddb_nosql) ⭐ 2,475 | 🐛 51 | 🌐 C++ | 📅 2026-03-19 - suitable for sensor data stored in a timeseries.
 * [SummitDB](https://github.com/tidwall/summitdb) ⚠️ Archived - an in-memory, NoSQL key/value database, with disk persistence and using the Raft consensus algorithm.
 * [HyperDex](https://github.com/rescrv/HyperDex) ⭐ 1,405 | 🐛 37 | 🌐 C++ | 📅 2024-05-21 - a scalable, next generation key-value and document store with a wide array of features, including consistency, fault tolerance and high performance.
 * [GhostDB](https://github.com/jakekgrog/GhostDB) ⭐ 752 | 🐛 12 | 🌐 Go | 📅 2021-03-10 - a distributed, in-memory, general purpose key-value data store that delivers microsecond performance at any scale.
@@ -222,12 +222,12 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 
 ## Graph Data Model
 
-* [DGraph](https://github.com/dgraph-io/dgraph) ⭐ 21,779 | 🐛 96 | 🌐 Go | 📅 2026-08-20 - A scalable, distributed, low latency, high throughput graph database aimed at providing Google production level scale and throughput, with low enough latency to be serving real time user queries, over terabytes of structured data.
+* [DGraph](https://github.com/dgraph-io/dgraph) ⭐ 21,778 | 🐛 96 | 🌐 Go | 📅 2026-08-21 - A scalable, distributed, low latency, high throughput graph database aimed at providing Google production level scale and throughput, with low enough latency to be serving real time user queries, over terabytes of structured data.
 * [Google Cayley](https://github.com/cayleygraph/cayley) ⭐ 15,060 | 🐛 93 | 🌐 Go | 📅 2026-08-17 - open-source graph database.
 * [Microsoft Graph Engine](https://github.com/Microsoft/GraphEngine) ⭐ 2,262 | 🐛 47 | 🌐 C# | 📅 2024-10-08 - a distributed in-memory data processing engine, underpinned by a strongly-typed in-memory key-value store and a general distributed computation engine.
 * [Gremlin](https://github.com/tinkerpop/gremlin) ⭐ 1,951 | 🐛 21 | 🌐 Java | 📅 2021-08-16 - graph traversal Language.
 * [GCHQ Gaffer](https://github.com/gchq/Gaffer) ⚠️ Archived - Gaffer by GCHQ is a framework that makes it easy to store large-scale graphs in which the nodes and edges have statistics.
-* [AgensGraph](https://github.com/bitnine-oss/agensgraph) ⭐ 1,507 | 🐛 137 | 🌐 C | 📅 2026-08-20 - transactional graph database based on PostgreSQL.
+* [AgensGraph](https://github.com/bitnine-oss/agensgraph) ⭐ 1,507 | 🐛 137 | 🌐 C | 📅 2026-08-21 - transactional graph database based on PostgreSQL.
 * [EliasDB](https://github.com/krotik/eliasdb) ⭐ 1,035 | 🐛 14 | 🌐 Go | 📅 2022-08-14 - a lightweight graph based database that does not require any third-party libraries.
 * [Phoebus](https://github.com/xslogic/phoebus) ⭐ 384 | 🐛 0 | 🌐 Erlang | 📅 2012-01-15 - framework for large scale graph processing.
 * [Actionbase](https://github.com/kakao/actionbase) ⭐ 225 | 🐛 44 | 🌐 Kotlin | 📅 2026-08-20 - a database for user interactions (likes, views, follows) with precomputed reads, supports HBase.
@@ -266,11 +266,11 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 
 ## NewSQL Databases
 
-* [TiDB](https://github.com/pingcap/tidb) ⭐ 40,454 | 🐛 6,826 | 🌐 Go | 📅 2026-08-20 - TiDB is a distributed SQL database. Inspired by the design of Google F1.
-* [Cockroach](https://github.com/cockroachdb/cockroach) ⭐ 32,404 | 🐛 8,209 | 🌐 Go | 📅 2026-08-07 - Scalable, Geo-Replicated, Transactional Datastore.
-* [yugabyteDB](https://github.com/YugaByte/yugabyte-db) ⭐ 10,484 | 🐛 8,285 | 🌐 C | 📅 2026-08-20 - open source, high-performance, distributed SQL database compatible with PostgreSQL.
+* [TiDB](https://github.com/pingcap/tidb) ⭐ 40,455 | 🐛 6,828 | 🌐 Go | 📅 2026-08-21 - TiDB is a distributed SQL database. Inspired by the design of Google F1.
+* [Cockroach](https://github.com/cockroachdb/cockroach) ⭐ 32,409 | 🐛 8,292 | 🌐 Go | 📅 2026-08-07 - Scalable, Geo-Replicated, Transactional Datastore.
+* [yugabyteDB](https://github.com/YugaByte/yugabyte-db) ⭐ 10,488 | 🐛 8,305 | 🌐 C | 📅 2026-08-21 - open source, high-performance, distributed SQL database compatible with PostgreSQL.
 * [ActorDB](https://github.com/biokoda/actordb) ⭐ 1,888 | 🐛 32 | 🌐 Erlang | 📅 2022-11-10 - a distributed SQL database with the scalability of a KV store, while keeping the query capabilities of a relational database.
-* [Comdb2](https://github.com/bloomberg/comdb2) ⭐ 1,526 | 🐛 294 | 🌐 C | 📅 2026-08-20 - a clustered RDBMS built on optimistic concurrency control techniques.
+* [Comdb2](https://github.com/bloomberg/comdb2) ⭐ 1,527 | 🐛 289 | 🌐 C | 📅 2026-08-21 - a clustered RDBMS built on optimistic concurrency control techniques.
 * [BayesDB](https://github.com/probcomp/BayesDB) ⭐ 889 | 🐛 0 | 📅 2015-09-24 - statistic oriented SQL database.
 * [KarelDB](https://github.com/rayokota/kareldb) ⭐ 389 | 🐛 12 | 🌐 Java | 📅 2025-10-15 - a relational database backed by Apache Kafka.
 * [Haeinsa](https://github.com/VCNC/haeinsa) ⭐ 160 | 🐛 19 | 🌐 Java | 📅 2017-02-28 - linearly scalable multi-row, multi-table transaction library for HBase based on Percolator.
@@ -298,10 +298,10 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 
 ## Time-Series Databases
 
-* [TDengine](https://github.com/taosdata/TDengine/) ⭐ 25,068 | 🐛 447 | 🌐 C | 📅 2026-08-16 - open-source time-series database with high-performance ingestion, SQL support, and IoT-oriented storage.
-* [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) ⭐ 17,574 | 🐛 769 | 🌐 Go | 📅 2026-08-20 - fast, scalable and resource-effective open-source TSDB compatible with Prometheus. Single-node and cluster versions included
+* [TDengine](https://github.com/taosdata/TDengine/) ⭐ 25,077 | 🐛 448 | 🌐 C | 📅 2026-08-21 - open-source time-series database with high-performance ingestion, SQL support, and IoT-oriented storage.
+* [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) ⭐ 17,574 | 🐛 774 | 🌐 Go | 📅 2026-08-21 - fast, scalable and resource-effective open-source TSDB compatible with Prometheus. Single-node and cluster versions included
 * [Thanos](https://github.com/improbable-eng/thanos) ⭐ 14,180 | 🐛 879 | 🌐 Go | 📅 2026-08-17 - Thanos is a set of components to create a highly available metric system with unlimited storage capacity using multiple (existing) Prometheus deployments.
-* [Druid](https://github.com/druid-io/druid/) ⭐ 14,044 | 🐛 805 | 🌐 Java | 📅 2026-08-20 Column oriented distributed data store ideal for powering interactive applications
+* [Druid](https://github.com/druid-io/druid/) ⭐ 14,045 | 🐛 791 | 🌐 Java | 📅 2026-08-21 Column oriented distributed data store ideal for powering interactive applications
 * [Beringei](https://github.com/facebookincubator/beringei) ⚠️ Archived - Facebook's in-memory time-series database.
 * [Kairosdb](https://github.com/kairosdb/kairosdb) ⭐ 1,762 | 🐛 141 | 🌐 Java | 📅 2026-03-05 - similar to OpenTSDB but allows for Cassandra.
 * [Akumuli](https://github.com/akumuli/Akumuli) ⚠️ Archived Akumuli is a numeric time-series database. It can be used to capture, store and process time-series data in real-time. The word "akumuli" can be translated from esperanto as "accumulate".
@@ -334,9 +334,9 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 
 ## SQL-like processing
 
-* [Spark Catalyst](https://github.com/apache/spark/tree/master/sql) ⭐ 43,842 | 🐛 483 | 🌐 Scala | 📅 2026-08-20 - is a Query Optimization Framework for Spark and Shark.
-* [Materialize](https://github.com/materializeinc/materialize) ⭐ 6,357 | 🐛 719 | 🌐 Rust | 📅 2026-08-20 - is a streaming database for real-time applications using SQL for queries and supporting a large fraction of PostgreSQL.
-* [chDB](https://github.com/chdb-io/chdb) ⭐ 2,872 | 🐛 39 | 🌐 Python | 📅 2026-08-20 - in-process OLAP SQL engine powered by ClickHouse, callable from Python with native pandas/Arrow DataFrame interop.
+* [Spark Catalyst](https://github.com/apache/spark/tree/master/sql) ⭐ 43,848 | 🐛 478 | 🌐 Scala | 📅 2026-08-21 - is a Query Optimization Framework for Spark and Shark.
+* [Materialize](https://github.com/materializeinc/materialize) ⭐ 6,358 | 🐛 730 | 🌐 Rust | 📅 2026-08-21 - is a streaming database for real-time applications using SQL for queries and supporting a large fraction of PostgreSQL.
+* [chDB](https://github.com/chdb-io/chdb) ⭐ 2,872 | 🐛 38 | 🌐 Python | 📅 2026-08-21 - in-process OLAP SQL engine powered by ClickHouse, callable from Python with native pandas/Arrow DataFrame interop.
 * [Actian SQL for Hadoop](http://www.actian.com/analytic-database/vectorh-sql-hadoop) - high performance interactive SQL access to all Hadoop data.
 * [Apache Doris](https://doris.apache.org/) - real-time analytical database for high-concurrency SQL analytics, search, and warehousing.
 * [Apache Drill](http://drill.apache.org/) - framework for interactive analysis, inspired by Dremel.
@@ -367,8 +367,8 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 
 ## Vector Databases
 
-* [Milvus](https://github.com/milvus-io/milvus) ⭐ 45,710 | 🐛 1,318 | 🌐 Go | 📅 2026-08-20 - open-source vector database for scalable similarity search.
-* [Zvec](https://github.com/alibaba/zvec) ⭐ 15,479 | 🐛 59 | 🌐 C++ | 📅 2026-08-20 - open-source, in-process vector database for dense, sparse, and hybrid similarity search.
+* [Milvus](https://github.com/milvus-io/milvus) ⭐ 45,728 | 🐛 1,324 | 🌐 Go | 📅 2026-08-21 - open-source vector database for scalable similarity search.
+* [Zvec](https://github.com/alibaba/zvec) ⭐ 15,496 | 🐛 58 | 🌐 C++ | 📅 2026-08-21 - open-source, in-process vector database for dense, sparse, and hybrid similarity search.
 * [Infinity](https://github.com/infiniflow/infinity) ⭐ 4,676 | 🐛 64 | 🌐 C++ | 📅 2026-08-17 - AI-native database for hybrid vector, sparse vector, tensor, full-text, and structured search.
 * [Chroma](https://www.trychroma.com/) - open-source embedding database for AI applications.
 * [LanceDB](https://www.lancedb.com/) - open-source embedded vector database built on the Lance columnar format.
@@ -377,16 +377,16 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 
 ## Data Ingestion
 
-* [Apache Pulsar](https://github.com/apache/pulsar) ⭐ 15,310 | 🐛 1,730 | 🌐 Java | 📅 2026-08-20 - a distributed pub-sub messaging platform with a very flexible messaging model and an intuitive client API.
-* [RudderStack](https://github.com/rudderlabs/rudder-server) ⭐ 4,475 | 🐛 50 | 🌐 Go | 📅 2026-08-20 - an open source customer data infrastructure (segment, mParticle  alternative) written in go.
+* [Apache Pulsar](https://github.com/apache/pulsar) ⭐ 15,311 | 🐛 1,739 | 🌐 Java | 📅 2026-08-20 - a distributed pub-sub messaging platform with a very flexible messaging model and an intuitive client API.
+* [RudderStack](https://github.com/rudderlabs/rudder-server) ⭐ 4,475 | 🐛 53 | 🌐 Go | 📅 2026-08-21 - an open source customer data infrastructure (segment, mParticle  alternative) written in go.
 * [Facebook Scribe](https://github.com/facebookarchive/scribe) ⚠️ Archived - streamed log data aggregator.
-* [ingestr](https://github.com/bruin-data/ingestr) ⭐ 3,850 | 🐛 15 | 🌐 Go | 📅 2026-08-19 - CLI tool for copying data between sources and destinations.
+* [ingestr](https://github.com/bruin-data/ingestr) ⭐ 3,856 | 🐛 15 | 🌐 Go | 📅 2026-08-21 - CLI tool for copying data between sources and destinations.
 * [Heka](https://github.com/mozilla-services/heka) ⚠️ Archived - open source stream processing software system.
 * [Linkedin Gobblin](https://github.com/linkedin/gobblin) ⭐ 2,270 | 🐛 142 | 🌐 Java | 📅 2026-07-31 - linkedin's universal data ingestion framework.
 * [Pinterest Secor](https://github.com/pinterest/secor) ⭐ 1,856 | 🐛 269 | 🌐 Java | 📅 2026-03-10 - is a service implementing Kafka log persistance.
-* [Bruin](https://github.com/bruin-data/bruin) ⭐ 1,671 | 🐛 32 | 🌐 Go | 📅 2026-08-20 - end-to-end data pipeline tool combining ingestion, transformations, and data quality checks.
-* [Zilla](https://github.com/aklivity/zilla) ⭐ 1,644 | 🐛 220 | 🌐 Java | 📅 2026-08-20 - An API gateway built for event-driven architectures and streaming that supports standard protocols such as HTTP, SSE, gRPC, MQTT and the native Kafka protocol.
-* [Duckle](https://github.com/slothflowlabs/duckle) ⭐ 1,172 | 🐛 60 | 🌐 Rust | 📅 2026-08-20 - open-source visual ETL/ELT platform built on DuckDB with connectors, data quality checks, and lineage.
+* [Zilla](https://github.com/aklivity/zilla) ⭐ 1,701 | 🐛 219 | 🌐 Java | 📅 2026-08-21 - An API gateway built for event-driven architectures and streaming that supports standard protocols such as HTTP, SSE, gRPC, MQTT and the native Kafka protocol.
+* [Bruin](https://github.com/bruin-data/bruin) ⭐ 1,672 | 🐛 33 | 🌐 Go | 📅 2026-08-21 - end-to-end data pipeline tool combining ingestion, transformations, and data quality checks.
+* [Duckle](https://github.com/slothflowlabs/duckle) ⭐ 1,190 | 🐛 61 | 🌐 Rust | 📅 2026-08-21 - open-source visual ETL/ELT platform built on DuckDB with connectors, data quality checks, and lineage.
 * [Netflix Suro](https://github.com/Netflix/suro) ⚠️ Archived - log agregattor like Storm and Samza based on Chukwa.
 * [Gazette](https://github.com/gazette/core) ⭐ 795 | 🐛 21 | 🌐 Go | 📅 2026-07-25 - Distributed streaming infrastructure built on cloud storage which makes it easy to mix and match batch and streaming paradigms.
 * [Skizze](https://github.com/skizzehq/skizze) ⭐ 773 | 🐛 10 | 🌐 Go | 📅 2016-05-10 - sketch data store to deal with all problems around counting and sketching using probabilistic data-structures.
@@ -431,7 +431,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 
 ## Service Programming
 
-* [Spotify Luigi](https://github.com/spotify/luigi) ⭐ 18,766 | 🐛 167 | 🌐 Python | 📅 2026-07-18 - a Python package for building complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization, handling failures, command line integration, and much more.
+* [Spotify Luigi](https://github.com/spotify/luigi) ⭐ 18,765 | 🐛 167 | 🌐 Python | 📅 2026-07-18 - a Python package for building complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization, handling failures, command line integration, and much more.
 * [Mara](https://github.com/mara/data-integration) ⭐ 2,089 | 🐛 26 | 🌐 Python | 📅 2023-12-15 - A lightweight opinionated ETL framework, halfway between plain scripts and Apache Airflow
 * [Twitter Elephant Bird](https://github.com/twitter/elephant-bird) ⭐ 1,133 | 🐛 87 | 🌐 Java | 📅 2023-04-10 - libraries for working with LZOP-compressed data.
 * [Spring XD](https://github.com/spring-projects/spring-xd) ⚠️ Archived - distributed and extensible system for data ingestion, real time analytics, batch processing, and data export.
@@ -450,9 +450,9 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 
 ## Scheduling
 
-* [Apache Airflow](https://github.com/apache/incubator-airflow) ⭐ 46,552 | 🐛 1,878 | 🌐 Python | 📅 2026-08-20 - a platform to programmatically author, schedule and monitor workflows.
-* [Dagster](https://github.com/dagster-io/dagster) ⭐ 16,032 | 🐛 2,595 | 🌐 Python | 📅 2026-08-19 - a data orchestrator for machine learning, analytics, and ETL.
-* [Cronicle](https://github.com/jhuckaby/Cronicle) ⭐ 5,801 | 🐛 333 | 🌐 JavaScript | 📅 2026-08-15 - Distributed, easy to install, NodeJS based, task scheduler
+* [Apache Airflow](https://github.com/apache/incubator-airflow) ⭐ 46,567 | 🐛 1,906 | 🌐 Python | 📅 2026-08-21 - a platform to programmatically author, schedule and monitor workflows.
+* [Dagster](https://github.com/dagster-io/dagster) ⭐ 16,045 | 🐛 2,596 | 🌐 Python | 📅 2026-08-20 - a data orchestrator for machine learning, analytics, and ETL.
+* [Cronicle](https://github.com/jhuckaby/Cronicle) ⭐ 5,802 | 🐛 333 | 🌐 JavaScript | 📅 2026-08-15 - Distributed, easy to install, NodeJS based, task scheduler
 * [Sparrow](https://github.com/radlab/sparrow) ⚠️ Archived - scheduling platform.
 * [Schedoscope](https://github.com/ottogroup/schedoscope) ⚠️ Archived - Scala DSL for agile scheduling of Hadoop jobs.
 * [Apache Aurora](http://aurora.apache.org/) - is a service scheduler that runs on top of Apache Mesos.
@@ -464,19 +464,19 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 
 ## Machine Learning
 
-* [TensorFlow](https://github.com/tensorflow/tensorflow) ⭐ 197,096 | 🐛 3,117 | 🌐 C++ | 📅 2026-08-20 - Library from Google for machine learning using data flow graphs.
-* [scikit-learn](https://github.com/scikit-learn/scikit-learn) ⭐ 66,978 | 🐛 2,119 | 🌐 Python | 📅 2026-08-20 - scikit-learn: machine learning in Python.
-* [Keras](https://github.com/fchollet/keras) ⭐ 64,240 | 🐛 227 | 🌐 Python | 📅 2026-08-20 - An intuitive neural net API inspired by Torch that runs atop Theano and Tensorflow.
-* [convnetjs](https://github.com/karpathy/convnetjs) ⭐ 11,195 | 🐛 75 | 🌐 JavaScript | 📅 2023-01-07 - Deep Learning in Javascript. Train Convolutional Neural Networks (or ordinary ones) in your browser.
-* [Vowpal Wabbit](https://github.com/JohnLangford/vowpal_wabbit/wiki) ⭐ 8,706 | 🐛 1 | 🌐 C++ | 📅 2026-08-18 - learning system sponsored by Microsoft and Yahoo!.
+* [TensorFlow](https://github.com/tensorflow/tensorflow) ⭐ 197,215 | 🐛 2,947 | 🌐 C++ | 📅 2026-08-21 - Library from Google for machine learning using data flow graphs.
+* [scikit-learn](https://github.com/scikit-learn/scikit-learn) ⭐ 66,995 | 🐛 2,116 | 🌐 Python | 📅 2026-08-21 - scikit-learn: machine learning in Python.
+* [Keras](https://github.com/fchollet/keras) ⭐ 64,240 | 🐛 227 | 🌐 Python | 📅 2026-08-21 - An intuitive neural net API inspired by Torch that runs atop Theano and Tensorflow.
+* [convnetjs](https://github.com/karpathy/convnetjs) ⭐ 11,197 | 🐛 75 | 🌐 JavaScript | 📅 2023-01-07 - Deep Learning in Javascript. Train Convolutional Neural Networks (or ordinary ones) in your browser.
+* [Vowpal Wabbit](https://github.com/JohnLangford/vowpal_wabbit/wiki) ⭐ 8,705 | 🐛 1 | 🌐 C++ | 📅 2026-08-18 - learning system sponsored by Microsoft and Yahoo!.
 * [brain](https://github.com/harthur/brain) ⚠️ Archived - Neural networks in JavaScript.
-* [H2O](https://github.com/h2oai/h2o-3/) ⭐ 7,495 | 🐛 2,882 | 🌐 Jupyter Notebook | 📅 2026-08-20 - statistical, machine learning and math runtime with Hadoop. R and Python.
-* [Feast](https://github.com/gojek/feast) ⭐ 7,223 | 🐛 389 | 🌐 Python | 📅 2026-08-20 - A feature store for the management, discovery, and access of machine learning features. Feast provides a consistent view of feature data for both model training and model serving.
+* [H2O](https://github.com/h2oai/h2o-3/) ⭐ 7,495 | 🐛 2,881 | 🌐 Jupyter Notebook | 📅 2026-08-20 - statistical, machine learning and math runtime with Hadoop. R and Python.
+* [Feast](https://github.com/gojek/feast) ⭐ 7,224 | 🐛 396 | 🌐 Python | 📅 2026-08-21 - A feature store for the management, discovery, and access of machine learning features. Feast provides a consistent view of feature data for both model training and model serving.
 * [nupic](https://github.com/numenta/nupic) ⭐ 6,351 | 🐛 465 | 🌐 Python | 📅 2024-12-03 - Numenta Platform for Intelligent Computing: a brain-inspired machine intelligence platform, and biologically accurate neural network based on cortical learning algorithms.
-* [Aim](https://github.com/aimhubio/aim) ⭐ 6,237 | 🐛 468 | 🌐 Python | 📅 2026-08-19 - open-source AI metadata tracker for experiments and training runs.
+* [Aim](https://github.com/aimhubio/aim) ⭐ 6,240 | 🐛 468 | 🌐 Python | 📅 2026-08-20 - open-source AI metadata tracker for experiments and training runs.
 * [ML Workspace](https://github.com/ml-tooling/ml-workspace) ⭐ 3,543 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-07-26 - All-in-one web-based IDE specialized for machine learning and data science.
 * [PyTorch Geometric Temporal](https://github.com/benedekrozemberczki/pytorch_geometric_temporal) ⭐ 2,993 | 🐛 30 | 🌐 Python | 📅 2026-05-30 - a temporal extension library for PyTorch Geometric .
-* [Karate Club](https://github.com/benedekrozemberczki/karateclub) ⭐ 2,285 | 🐛 12 | 🌐 Python | 📅 2024-07-17 - An unsupervised machine learning library for graph structured data. Python
+* [Karate Club](https://github.com/benedekrozemberczki/karateclub) ⭐ 2,286 | 🐛 12 | 🌐 Python | 📅 2024-07-17 - An unsupervised machine learning library for graph structured data. Python
 * [Oryx](https://github.com/OryxProject/oryx) ⚠️ Archived - Lambda architecture on Apache Spark, Apache Kafka for real-time large scale machine learning.
 * [BidMach](https://github.com/BIDData/BIDMach) ⭐ 920 | 🐛 67 | 🌐 Scala | 📅 2022-10-04 - CPU and GPU-accelerated Machine Learning Library.
 * [MLPNeuralNet](https://github.com/nikolaypavlov/MLPNeuralNet) ⭐ 899 | 🐛 1 | 🌐 Objective-C | 📅 2016-09-30 - Fast multilayer perceptron neural network library for iOS and Mac OS X.
@@ -552,7 +552,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 
 ## Applications
 
-* [ElastAert](https://github.com/Yelp/elastalert) ⭐ 7,987 | 🐛 1,401 | 🌐 Python | 📅 2024-08-07 - ElastAlert is a simple framework for alerting on anomalies, spikes, or other patterns of interest from data in ElasticSearch.
+* [ElastAert](https://github.com/Yelp/elastalert) ⭐ 7,986 | 🐛 1,401 | 🌐 Python | 📅 2024-08-07 - ElastAlert is a simple framework for alerting on anomalies, spikes, or other patterns of interest from data in ElasticSearch.
 * [Snowplow](https://github.com/snowplow/snowplow) ⭐ 7,028 | 🐛 59 | 🌐 Scala | 📅 2026-06-26 - enterprise-strength web and event analytics, powered by Hadoop, Kinesis, Redshift and Postgres.
 * [Atlas](https://github.com/Netflix/atlas) ⭐ 3,562 | 🐛 8 | 🌐 Scala | 📅 2026-08-20 - a backend for managing dimensional time series data.
 * [Kapacitor](https://github.com/influxdata/kapacitor) ⭐ 2,374 | 🐛 833 | 🌐 Go | 📅 2026-08-10 - an open source framework for processing, monitoring, and alerting on time series data.
@@ -590,8 +590,8 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 
 ## Search engine and framework
 
-* [Facebook Faiss](https://github.com/facebookresearch/faiss) ⭐ 40,774 | 🐛 285 | 🌐 C++ | 📅 2026-08-19 - is a library for efficient similarity search and clustering of dense vectors. It contains algorithms that search in sets of vectors of any size, up to ones that possibly do not fit in RAM. It also contains supporting code for evaluation and parameter tuning. Faiss is written in C++ with complete wrappers for Python/numpy.
-* [Annoy](https://github.com/spotify/annoy) ⭐ 14,289 | 🐛 84 | 🌐 C++ | 📅 2025-10-29 - is a C++ library with Python bindings to search for points in space that are close to a given query point. It also creates large read-only file-based data structures that are mmapped into memory so that many processes may share the same data.
+* [Facebook Faiss](https://github.com/facebookresearch/faiss) ⭐ 40,786 | 🐛 287 | 🌐 C++ | 📅 2026-08-19 - is a library for efficient similarity search and clustering of dense vectors. It contains algorithms that search in sets of vectors of any size, up to ones that possibly do not fit in RAM. It also contains supporting code for evaluation and parameter tuning. Faiss is written in C++ with complete wrappers for Python/numpy.
+* [Annoy](https://github.com/spotify/annoy) ⭐ 14,285 | 🐛 85 | 🌐 C++ | 📅 2025-10-29 - is a C++ library with Python bindings to search for points in space that are close to a given query point. It also creates large read-only file-based data structures that are mmapped into memory so that many processes may share the same data.
 * [Elassandra](https://github.com/strapdata/elassandra) ⭐ 1,714 | 🐛 60 | 🌐 Java | 📅 2026-05-17 - is a fork of Elasticsearch modified to run on top of Apache Cassandra in a scalable and resilient peer-to-peer architecture.
 * [LinkedIn Cleo](https://github.com/linkedin/cleo) ⭐ 567 | 🐛 8 | 🌐 Java | 📅 2013-11-13 - is a flexible software library for enabling rapid development of partial, out-of-order and real-time typeahead search.
 * [LinkedIn Zoie](https://github.com/senseidb/zoie) ⭐ 369 | 🐛 16 | 🌐 Java | 📅 2022-12-15 - is a realtime search/indexing system written in Java.
@@ -634,7 +634,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 
 ## Memcached forks and evolutions
 
-* [Twemproxy](https://github.com/twitter/twemproxy) ⭐ 12,335 | 🐛 194 | 🌐 C | 📅 2024-03-29 - A fast, light-weight proxy for memcached and redis.
+* [Twemproxy](https://github.com/twitter/twemproxy) ⭐ 12,336 | 🐛 194 | 🌐 C | 📅 2024-03-29 - A fast, light-weight proxy for memcached and redis.
 * [Twitter Fatcache](https://github.com/twitter/fatcache) ⚠️ Archived - key/value cache for flash storage.
 * [Twitter Twemcache](https://github.com/twitter/twemcache) ⚠️ Archived - fork of Memcache.
 * [Facebook McDipper](https://www.facebook.com/notes/facebook-engineering/mcdipper-a-key-value-cache-for-flash-storage/10151347090423920) - key/value cache for flash storage.
@@ -642,7 +642,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 
 ## Embedded Databases
 
-* [LevelDB](https://github.com/google/leveldb) ⭐ 39,343 | 🐛 402 | 🌐 C++ | 📅 2026-03-11 - a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
+* [LevelDB](https://github.com/google/leveldb) ⭐ 39,347 | 🐛 402 | 🌐 C++ | 📅 2026-03-11 - a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
 * [HanoiDB](https://github.com/krestenkrab/hanoidb) ⭐ 313 | 🐛 14 | 🌐 Erlang | 📅 2016-08-07 - Erlang LSM BTree Storage.
 * [Actian PSQL](http://www.actian.com/products/operational-databases/) - ACID-compliant DBMS developed by Pervasive Software, optimized for embedding in applications.
 * [BerkeleyDB](https://www.oracle.com/database/berkeley-db/index.html) - a software library that provides a high-performance embedded database for key/value data.
@@ -651,9 +651,9 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 
 ## Business Intelligence
 
-* [Metabase](https://github.com/metabase/metabase) ⭐ 48,849 | 🐛 4,377 | 🌐 Clojure | 📅 2026-08-20 - The simplest, fastest way to get business intelligence and analytics to everyone in your company.
-* [Lightdash](https://github.com/lightdash/lightdash) ⭐ 6,061 | 🐛 1,236 | 🌐 TypeScript | 📅 2026-08-20 - The open source Looker alternative built on dbt
-* [Blazer](https://github.com/ankane/blazer) ⭐ 4,795 | 🐛 32 | 🌐 Ruby | 📅 2026-08-15 - business intelligence made simple.
+* [Metabase](https://github.com/metabase/metabase) ⭐ 48,862 | 🐛 4,402 | 🌐 Clojure | 📅 2026-08-21 - The simplest, fastest way to get business intelligence and analytics to everyone in your company.
+* [Lightdash](https://github.com/lightdash/lightdash) ⭐ 6,067 | 🐛 1,187 | 🌐 TypeScript | 📅 2026-08-21 - The open source Looker alternative built on dbt
+* [Blazer](https://github.com/ankane/blazer) ⭐ 4,796 | 🐛 32 | 🌐 Ruby | 📅 2026-08-15 - business intelligence made simple.
 * [BIME Analytics](https://www.bimeanalytics.com/?lang=en) - business intelligence platform in the cloud.
 * [Chartio](https://chartio.com) - lean business intelligence platform to visualize and explore your data.
 * [Count](https://count.co) - notebook-based anlytics and visualisation platform using SQL or drag-and-drop.
@@ -680,22 +680,22 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 
 ## Data Visualization
 
-* [Superset](https://github.com/apache/incubator-superset) ⭐ 74,321 | 🐛 628 | 🌐 Python | 📅 2026-08-20 - a data exploration platform designed to be visual, intuitive and interactive, making it easy to slice, dice and visualize data and perform analytics at the speed of thought.
-* [Echarts](https://github.com/ecomfe/echarts) ⭐ 67,102 | 🐛 1,556 | 🌐 TypeScript | 📅 2026-08-04 - Baidus enterprise charts.
-* [Redash](https://github.com/getredash/redash) ⭐ 28,759 | 🐛 801 | 🌐 Python | 📅 2026-08-18 - open-source platform to query and visualize data.
-* [Dash](https://github.com/plotly/dash) ⭐ 24,379 | 🐛 539 | 🌐 Python | 📅 2026-08-19 - Analytical Web Apps for Python, R, Julia, and Jupyter. Built on top of plotly, no JS required
-* [Matplotlib](https://github.com/matplotlib/matplotlib) ⭐ 23,095 | 🐛 1,479 | 🌐 Python | 📅 2026-08-19 - plotting with Python.
+* [Superset](https://github.com/apache/incubator-superset) ⭐ 74,351 | 🐛 616 | 🌐 Python | 📅 2026-08-21 - a data exploration platform designed to be visual, intuitive and interactive, making it easy to slice, dice and visualize data and perform analytics at the speed of thought.
+* [Echarts](https://github.com/ecomfe/echarts) ⭐ 67,108 | 🐛 1,555 | 🌐 TypeScript | 📅 2026-08-04 - Baidus enterprise charts.
+* [Redash](https://github.com/getredash/redash) ⭐ 28,761 | 🐛 801 | 🌐 Python | 📅 2026-08-18 - open-source platform to query and visualize data.
+* [Dash](https://github.com/plotly/dash) ⭐ 24,377 | 🐛 540 | 🌐 Python | 📅 2026-08-20 - Analytical Web Apps for Python, R, Julia, and Jupyter. Built on top of plotly, no JS required
+* [Matplotlib](https://github.com/matplotlib/matplotlib) ⭐ 23,100 | 🐛 1,477 | 🌐 Python | 📅 2026-08-19 - plotting with Python.
 * [Plotly.js](https://github.com/plotly/plotly.js) ⭐ 18,297 | 🐛 845 | 🌐 JavaScript | 📅 2026-08-20 The open source javascript graphing library that powers plotly.
-* [Sigma.js](https://github.com/jacomyal/sigma.js) ⭐ 12,140 | 🐛 12 | 🌐 TypeScript | 📅 2026-08-18 - JavaScript library dedicated to graph drawing.
-* [Vega](https://github.com/vega/vega) ⭐ 11,964 | 🐛 470 | 🌐 JavaScript | 📅 2026-08-14 - a visualization grammar.
-* [Gephi](https://github.com/gephi/gephi) ⭐ 6,617 | 🐛 520 | 🌐 Java | 📅 2026-08-19 - An award-winning open-source platform for visualizing and manipulating large graphs and network connections. It's like Photoshop, but for graphs. Available for Windows and Mac OS X.
+* [Sigma.js](https://github.com/jacomyal/sigma.js) ⭐ 12,142 | 🐛 12 | 🌐 TypeScript | 📅 2026-08-20 - JavaScript library dedicated to graph drawing.
+* [Vega](https://github.com/vega/vega) ⭐ 11,965 | 🐛 470 | 🌐 JavaScript | 📅 2026-08-14 - a visualization grammar.
+* [Gephi](https://github.com/gephi/gephi) ⭐ 6,618 | 🐛 520 | 🌐 Java | 📅 2026-08-19 - An award-winning open-source platform for visualizing and manipulating large graphs and network connections. It's like Photoshop, but for graphs. Available for Windows and Mac OS X.
 * [Freeboard](https://github.com/Freeboard/freeboard) ⭐ 6,503 | 🐛 166 | 🌐 JavaScript | 📅 2023-09-23 - pen source real-time dashboard builder for IOT and other web mashups.
 * [Cubism](https://github.com/square/cubism) ⭐ 4,926 | 🐛 42 | 🌐 JavaScript | 📅 2025-04-01 - JavaScript library for time series visualization.
 * [Peity](https://github.com/benpickles/peity) ⭐ 4,213 | 🐛 23 | 🌐 HTML | 📅 2024-04-11 - Progressive SVG bar, line and pie charts.
 * [DataSphere Studio](https://github.com/WeBankFinTech/DataSphereStudio) ⭐ 3,261 | 🐛 362 | 🌐 Java | 📅 2025-11-04 - one-stop data application development management portal.
 * [Airpal](https://github.com/airbnb/airpal) ⚠️ Archived - Web UI for PrestoDB.
 * [Arbor](https://github.com/samizdatco/arbor) ⭐ 2,658 | 🐛 56 | 🌐 JavaScript | 📅 2020-04-10 - graph visualization library using web workers and jQuery.
-* [Recline](https://github.com/okfn/recline) ⭐ 2,342 | 🐛 73 | 🌐 TypeScript | 📅 2026-08-20 - simple but powerful library for building data applications in pure Javascript and HTML.
+* [Recline](https://github.com/okfn/recline) ⭐ 2,343 | 🐛 73 | 🌐 TypeScript | 📅 2026-08-20 - simple but powerful library for building data applications in pure Javascript and HTML.
 * [Envisionjs](https://github.com/HumbleSoftware/envisionjs) ⭐ 1,554 | 🐛 24 | 🌐 JavaScript | 📅 2020-04-10 - dynamic HTML5 visualization.
 * [D3.compose](https://github.com/CSNW/d3.compose) ⭐ 695 | 🐛 18 | 🌐 JavaScript | 📅 2022-12-10 - Compose complex, data-driven visualizations from reusable charts and components.
 * [Banana](https://github.com/LucidWorks/banana) ⭐ 673 | 🐛 109 | 🌐 JavaScript | 📅 2026-05-28 - visualize logs and time-stamped data stored in Solr. Port of Kibana.
@@ -854,23 +854,23 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 
 # Other Awesome Lists
 
-* Even more lists [awesome](https://github.com/sindresorhus/awesome) ⭐ 498,094 | 🐛 105 | 📅 2026-08-18.
-* Public Datasets [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) ⭐ 78,226 | 🐛 159 | 📅 2026-08-04.
-* Other awesome lists [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,611 | 🐛 60 | 🌐 Ruby | 📅 2024-06-02.
-* Another list? [list](https://github.com/jnv/lists) ⭐ 11,425 | 🐛 21 | 📅 2026-03-23.
+* Even more lists [awesome](https://github.com/sindresorhus/awesome) ⭐ 498,526 | 🐛 105 | 📅 2026-08-21.
+* Public Datasets [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) ⭐ 78,368 | 🐛 159 | 📅 2026-08-04.
+* Other awesome lists [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,614 | 🐛 60 | 🌐 Ruby | 📅 2024-06-02.
+* Another list? [list](https://github.com/jnv/lists) ⭐ 11,428 | 🐛 21 | 📅 2026-03-23.
 * Graph Classification [awesome-graph-classification](https://github.com/benedekrozemberczki/awesome-graph-classification) ⭐ 4,799 | 🐛 0 | 🌐 Python | 📅 2023-03-18.
 * Analytics [awesome-analytics](https://github.com/onurakpolat/awesome-analytics) ⭐ 4,302 | 🐛 56 | 📅 2026-02-17.
 * Network Embedding [awesome-network-embedding](https://github.com/chihming/awesome-network-embedding) ⭐ 2,627 | 🐛 4 | 📅 2020-12-08.
 * Decision Tree Papers [awesome-decision-tree-papers](https://github.com/benedekrozemberczki/awesome-decision-tree-papers) ⭐ 2,473 | 🐛 3 | 🌐 Python | 📅 2025-12-28.
-* Community Detection [awesome-community-detection](https://github.com/benedekrozemberczki/awesome-community-detection) ⭐ 2,449 | 🐛 0 | 🌐 Python | 📅 2025-12-20.
-* WTF! [awesome-awesome-awesome](https://github.com/t3chnoboy/awesome-awesome-awesome) ⭐ 2,238 | 🐛 5 | 📅 2023-11-13.
-* Fraud Detection Papers [awesome-fraud-detection-papers](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers) ⭐ 1,825 | 🐛 2 | 🌐 Python | 📅 2026-01-05.
+* Community Detection [awesome-community-detection](https://github.com/benedekrozemberczki/awesome-community-detection) ⭐ 2,450 | 🐛 0 | 🌐 Python | 📅 2025-12-20.
+* WTF! [awesome-awesome-awesome](https://github.com/t3chnoboy/awesome-awesome-awesome) ⭐ 2,239 | 🐛 5 | 📅 2023-11-13.
+* Fraud Detection Papers [awesome-fraud-detection-papers](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers) ⭐ 1,826 | 🐛 2 | 🌐 Python | 📅 2026-01-05.
 * Gradient Boosting Papers [awesome-gradient-boosting-papers](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers) ⭐ 1,049 | 🐛 3 | 🌐 Python | 📅 2026-01-05.
-* Data Annotation and Labeling Tools [awesome-open-data-annotation](https://github.com/zenml-io/awesome-open-data-annotation) ⭐ 723 | 🐛 2 | 📅 2026-07-06.
-* Monte Carlo Tree Search Papers [awesome-monte-carlo-tree-search-papers](https://github.com/benedekrozemberczki/awesome-monte-carlo-tree-search-papers) ⭐ 713 | 🐛 0 | 🌐 Python | 📅 2026-01-13.
+* Data Annotation and Labeling Tools [awesome-open-data-annotation](https://github.com/zenml-io/awesome-open-data-annotation) ⭐ 724 | 🐛 2 | 📅 2026-07-06.
+* Monte Carlo Tree Search Papers [awesome-monte-carlo-tree-search-papers](https://github.com/benedekrozemberczki/awesome-monte-carlo-tree-search-papers) ⭐ 714 | 🐛 0 | 🌐 Python | 📅 2026-01-13.
 * Kafka [awesome-kafka](https://github.com/monksy/awesome-kafka) ⭐ 216 | 🐛 1 | 📅 2026-05-13.
 * [Google Bigtable](https://github.com/zrosenbauer/awesome-bigtable) ⭐ 56 | 🐛 1 | 📅 2022-09-19.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
