@@ -10,12 +10,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AI Infra / AI Orchestration / AI Control Plane",
+            "homepage": "https://polyaxon.com",
             "id": 77383688,
             "language": "MDX",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T13:15:50Z",
+            "open_issues": 126,
             "owner": "polyaxon",
             "repo": "polyaxon",
-            "stars": 3726
+            "stars": 3726,
+            "topics": [
+              "agents",
+              "artificial-intelligence",
+              "data-science",
+              "deep-learning",
+              "harness",
+              "hyperparameter-optimization",
+              "jupyter",
+              "jupyterlab",
+              "k8s",
+              "keras",
+              "kubernetes",
+              "machine-learning",
+              "mlops",
+              "notebook",
+              "pipelines",
+              "pytorch",
+              "reinforcement-learning",
+              "sandbox",
+              "tensorflow",
+              "workflow"
+            ]
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -26,12 +52,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Kubernetes-native platform to run massively parallel data/streaming jobs",
+            "homepage": "https://numaflow.numaproj.io",
             "id": 494617920,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T14:39:33Z",
+            "open_issues": 282,
             "owner": "numaproj",
             "repo": "numaflow",
-            "stars": 2826
+            "stars": 2826,
+            "topics": [
+              "data-processing",
+              "hacktoberfest",
+              "k8s",
+              "kubernetes",
+              "map-reduce",
+              "pipeline",
+              "stream-processing"
+            ]
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -42,12 +81,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Bistro is a flexible distributed scheduler, a high-performance framework supporting multiple paradigms while retaining ease of configuration, management, and monitoring.",
+            "homepage": "https://bistro.io",
             "id": 16303023,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2023-03-21T04:04:09Z",
+            "open_issues": 6,
             "owner": "facebookarchive",
             "repo": "bistro",
-            "stars": 1026
+            "stars": 1026,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -58,12 +102,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An extensible Java framework for building event-driven applications that break up XML and non-XML data into chunks for data integration",
+            "homepage": "https://www.smooks.org",
             "id": 1194243,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2025-11-24T19:27:32Z",
+            "open_issues": 35,
             "owner": "smooks",
             "repo": "smooks",
-            "stars": 417
+            "stars": 417,
+            "topics": [
+              "analytics",
+              "chunking",
+              "enterprise-integration",
+              "etl",
+              "event-driven",
+              "java",
+              "pipelines",
+              "sax",
+              "smooks",
+              "stream-processing",
+              "xml"
+            ]
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -74,12 +135,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "High Throughput Real-time Stream Processing Framework",
+            "homepage": "http://tigon.io",
             "id": 22634457,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2017-04-05T16:12:13Z",
+            "open_issues": 1,
             "owner": "cdapio",
             "repo": "tigon",
-            "stars": 284
+            "stars": 284,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         }
@@ -96,12 +162,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.",
+            "homepage": "https://ray.io",
             "id": 71932349,
             "language": "Python",
-            "last_commit": "2026-08-28T23:23:42Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T02:52:53Z",
+            "open_issues": 3536,
             "owner": "ray-project",
             "repo": "ray",
-            "stars": 43639
+            "stars": 43639,
+            "topics": [
+              "data-science",
+              "deep-learning",
+              "deployment",
+              "distributed",
+              "hyperparameter-optimization",
+              "hyperparameter-search",
+              "large-language-models",
+              "llm",
+              "llm-inference",
+              "llm-serving",
+              "machine-learning",
+              "optimization",
+              "parallel",
+              "python",
+              "pytorch",
+              "ray",
+              "reinforcement-learning",
+              "rllib",
+              "serving",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -112,12 +204,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Apache Heron (Incubating) is a realtime, distributed, fault-tolerant stream processing engine from Twitter",
+            "homepage": "https://heron.apache.org/",
             "id": 43158694,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2023-03-01T15:11:08Z",
+            "open_issues": 409,
             "owner": "apache",
             "repo": "incubator-heron",
-            "stars": 3628
+            "stars": 3628,
+            "topics": [
+              "heron",
+              "messaging",
+              "streaming"
+            ]
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -128,12 +229,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Scala API for Cascading",
+            "homepage": "http://twitter.com/scalding",
             "id": 3146558,
             "language": "Scala",
+            "license": "Apache-2.0",
             "last_commit": "2023-05-28T19:18:59Z",
+            "open_issues": 317,
             "owner": "twitter",
             "repo": "scalding",
-            "stars": 3523
+            "stars": 3523,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -144,12 +250,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Streaming MapReduce with Scalding and Storm",
+            "homepage": "https://twitter.com/summingbird",
             "id": 5957708,
             "language": "Scala",
+            "license": "Apache-2.0",
             "last_commit": "2022-01-19T17:31:02Z",
+            "open_issues": 162,
             "owner": "twitter",
             "repo": "summingbird",
-            "stars": 2123
+            "stars": 2123,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -160,12 +271,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Map-Reduce for Clojure",
+            "homepage": null,
             "id": 15149719,
             "language": "Clojure",
+            "license": "Apache-2.0",
             "last_commit": "2023-04-10T10:32:34Z",
+            "open_issues": 19,
             "owner": "Netflix",
             "repo": "PigPen",
-            "stars": 564
+            "stars": 564,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -176,12 +292,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": null,
+            "homepage": null,
             "id": 15475337,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2020-07-01T22:33:16Z",
+            "open_issues": 14,
             "owner": "addthis",
             "repo": "hydra",
-            "stars": 435
+            "stars": 435,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -192,12 +313,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "High performance distributed data processing engine",
+            "homepage": "https://skale-me.github.io/skale",
             "id": 54407604,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2021-05-29T06:32:42Z",
+            "open_issues": 0,
             "owner": "skale-me",
             "repo": "skale",
-            "stars": 397
+            "stars": 397,
+            "topics": [
+              "aws-s3",
+              "azure-storage",
+              "cluster",
+              "machine-learning",
+              "nodejs",
+              "parquet",
+              "skale"
+            ]
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -208,12 +342,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hadoop MapReduce in idiomatic Clojure.",
+            "homepage": null,
             "id": 14110795,
             "language": "Clojure",
+            "license": "Apache-2.0",
             "last_commit": "2016-03-23T13:25:13Z",
+            "open_issues": 2,
             "owner": "damballa",
             "repo": "parkour",
-            "stars": 255
+            "stars": 255,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -224,12 +363,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Big Data Science Swiss Army Knife - http://www.tuktu.io -- ",
+            "homepage": "http://www.understandling.com",
             "id": 27332699,
             "language": "Scala",
+            "license": "NOASSERTION",
             "last_commit": "2018-02-15T14:35:50Z",
+            "open_issues": 6,
             "owner": "UnderstandLingBV",
             "repo": "Tuktu",
-            "stars": 59
+            "stars": 59,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -240,12 +384,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tuple MapReduce for Hadoop: Hadoop API made easy",
+            "homepage": "http://datasalt.github.io/pangool/",
             "id": 3580492,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2022-06-27T16:13:01Z",
+            "open_issues": 23,
             "owner": "datasalt",
             "repo": "pangool",
-            "stars": 57
+            "stars": 57,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -256,12 +405,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Develop streaming applications for IBM Streams in Python, Java & Scala.",
+            "homepage": "http://ibmstreams.github.io/streamsx.topology",
             "id": 36458001,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2022-07-24T18:57:30Z",
+            "open_issues": 3,
             "owner": "IBMStreams",
             "repo": "streamsx.topology",
-            "stars": 29
+            "stars": 29,
+            "topics": [
+              "ibm-streams",
+              "java",
+              "python",
+              "python-3",
+              "scala",
+              "stream-processing",
+              "streaming-topologies",
+              "toolkit"
+            ]
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         }
@@ -278,12 +441,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JuiceFS is a distributed POSIX file system built on top of Redis and S3.",
+            "homepage": "https://juicefs.com",
             "id": 327859577,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T11:10:19Z",
+            "open_issues": 197,
             "owner": "juicedata",
             "repo": "juicefs",
-            "stars": 14366
+            "stars": 14367,
+            "topics": [
+              "bigdata",
+              "cloud-native",
+              "distributed-systems",
+              "filesystem",
+              "go",
+              "golang",
+              "hdfs",
+              "object-storage",
+              "posix",
+              "redis",
+              "s3",
+              "storage"
+            ]
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -294,12 +475,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Baidu File System.",
+            "homepage": null,
             "id": 26562172,
             "language": "C++",
+            "license": "BSD-3-Clause",
             "last_commit": "2018-12-03T15:52:28Z",
+            "open_issues": 119,
             "owner": "baidu",
             "repo": "bfs",
-            "stars": 2847
+            "stars": 2847,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -310,12 +496,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Distributed object store",
+            "homepage": "https://github.com/linkedin/ambry/wiki",
             "id": 13870893,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T05:34:29Z",
+            "open_issues": 141,
             "owner": "linkedin",
             "repo": "ambry",
-            "stars": 1785
+            "stars": 1785,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -326,12 +517,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, xDC replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding. Enterprise version is at seaweedfs.com.",
+            "homepage": "https://seaweedfs.com",
             "id": 1128557039,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-21T07:44:51Z",
+            "open_issues": 1,
             "owner": "chrislusf",
             "repo": "seaweedfs",
-            "stars": 37
+            "stars": 37,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         }
@@ -348,12 +544,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An Internet-Scale Database.",
+            "homepage": null,
             "id": 18129915,
             "language": "C++",
+            "license": "BSD-3-Clause",
             "last_commit": "2024-06-05T12:31:05Z",
+            "open_issues": 172,
             "owner": "baidu",
             "repo": "tera",
-            "stars": 1902
+            "stars": 1902,
+            "topics": [
+              "baidu",
+              "bigtable",
+              "c-plus-plus",
+              "data",
+              "database",
+              "hbase",
+              "nosql",
+              "storage"
+            ]
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -364,12 +574,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "InfiniDB Data Warehouse",
+            "homepage": null,
             "id": 13589020,
             "language": "C++",
+            "license": "GPL-2.0",
             "last_commit": "2017-10-14T19:00:58Z",
+            "open_issues": 1,
             "owner": "infinidb",
             "repo": "infinidb",
-            "stars": 248
+            "stars": 248,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -380,12 +595,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Apache Tephra: Transactions for HBase.",
+            "homepage": "http://tephra.incubator.apache.org",
             "id": 21894018,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2024-09-13T12:12:49Z",
+            "open_issues": 8,
             "owner": "cdapio",
             "repo": "tephra",
-            "stars": 159
+            "stars": 159,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         }
@@ -402,12 +622,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Distributed transactional key-value database, originally created to complement TiDB",
+            "homepage": "https://tikv.org",
             "id": 48833910,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T12:19:44Z",
+            "open_issues": 1799,
             "owner": "tikv",
             "repo": "tikv",
-            "stars": 16818
+            "stars": 16818,
+            "topics": [
+              "cncf",
+              "consensus",
+              "distributed-transactions",
+              "hacktoberfest",
+              "key-value",
+              "raft",
+              "rocksdb",
+              "rust",
+              "tidb",
+              "tikv"
+            ]
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -418,12 +654,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "An embedded key/value database for Go.",
+            "homepage": null,
             "id": 15345331,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2018-03-02T18:00:53Z",
+            "open_issues": 84,
             "owner": "boltdb",
             "repo": "bolt",
-            "stars": 14643
+            "stars": 14643,
+            "topics": [
+              "database",
+              "go",
+              "key-value"
+            ]
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -434,12 +679,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Real-time Geospatial and Geofencing",
+            "homepage": "https://tile38.com",
             "id": 53171300,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-07T12:16:28Z",
+            "open_issues": 162,
             "owner": "tidwall",
             "repo": "tile38",
-            "stars": 9718
+            "stars": 9718,
+            "topics": [
+              "database",
+              "geo",
+              "geofences",
+              "geospatial",
+              "index",
+              "location",
+              "spatial"
+            ]
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -450,12 +708,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "BuntDB is an embeddable, in-memory key/value database for Go with custom indexing and geospatial support",
+            "homepage": null,
             "id": 63731386,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-05-19T13:29:56Z",
+            "open_issues": 32,
             "owner": "tidwall",
             "repo": "buntdb",
-            "stars": 4865
+            "stars": 4865,
+            "topics": [
+              "database",
+              "geospatial",
+              "golang",
+              "in-memory",
+              "key-value"
+            ]
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -466,12 +735,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Riak is a decentralized datastore from Basho Technologies.",
+            "homepage": "http://docs.basho.com",
             "id": 613723,
             "language": "Shell",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-14T13:38:31Z",
+            "open_issues": 150,
             "owner": "basho",
             "repo": "riak",
-            "stars": 4027
+            "stars": 4027,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -482,12 +756,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Get your data in RAM. Get compute close to data. Enjoy the performance.",
+            "homepage": "https://www.tarantool.io",
             "id": 911980,
             "language": "Lua",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T17:16:33Z",
+            "open_issues": 1706,
             "owner": "tarantool",
             "repo": "tarantool",
-            "stars": 3664
+            "stars": 3664,
+            "topics": [
+              "appserver",
+              "database",
+              "disk",
+              "in-memory",
+              "lua",
+              "msgpack",
+              "tarantool",
+              "transactions"
+            ]
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -498,12 +786,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GridDB is a next-generation open source database that makes time series IoT and big data fast,and easy.",
+            "homepage": "https://griddb.org/",
             "id": 52420005,
             "language": "C++",
+            "license": "AGPL-3.0",
             "last_commit": "2026-03-19T08:57:07Z",
+            "open_issues": 51,
             "owner": "griddb",
             "repo": "griddb",
-            "stars": 2475
+            "stars": 2475,
+            "topics": [
+              "bigdata",
+              "database",
+              "fast",
+              "griddb",
+              "iot",
+              "newsql",
+              "nosql",
+              "sql",
+              "time-series",
+              "timeseries"
+            ]
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -514,12 +818,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "In-memory NoSQL database with ACID transactions, Raft consensus, and Redis API",
+            "homepage": null,
             "id": 70629059,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2022-04-22T22:22:15Z",
+            "open_issues": 12,
             "owner": "tidwall",
             "repo": "summitdb",
-            "stars": 1406
+            "stars": 1406,
+            "topics": [
+              "database",
+              "geospatial",
+              "in-memory",
+              "json",
+              "nosql",
+              "raft"
+            ]
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -530,12 +846,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "HyperDex is a scalable, searchable key-value store",
+            "homepage": "http://hyperdex.org",
             "id": 3493103,
             "language": "C++",
+            "license": "BSD-3-Clause",
             "last_commit": "2024-05-21T01:40:06Z",
+            "open_issues": 37,
             "owner": "rescrv",
             "repo": "HyperDex",
-            "stars": 1405
+            "stars": 1405,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -546,12 +867,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GhostDB is a distributed, in-memory, general purpose key-value data store that delivers microsecond performance at any scale.",
+            "homepage": "http://www.ghostdbcache.com",
             "id": 265390281,
             "language": "Go",
+            "license": "BSD-3-Clause",
             "last_commit": "2021-03-10T20:55:50Z",
+            "open_issues": 12,
             "owner": "jakekgrog",
             "repo": "GhostDB",
-            "stars": 752
+            "stars": 752,
+            "topics": [
+              "cache",
+              "database",
+              "datastore",
+              "distributed-database",
+              "golang",
+              "in-memory-database"
+            ]
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -562,12 +895,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Distributed database specialized in exporting key/value data from Hadoop",
+            "homepage": null,
             "id": 1372117,
             "language": "Java",
+            "license": "BSD-3-Clause",
             "last_commit": "2014-06-27T19:41:17Z",
+            "open_issues": 4,
             "owner": "nathanmarz",
             "repo": "elephantdb",
-            "stars": 559
+            "stars": 559,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -578,12 +916,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An Erlang implementation of Redis",
+            "homepage": "http://inaka.github.com/edis/",
             "id": 1196286,
             "language": "Erlang",
+            "license": "Apache-2.0",
             "last_commit": "2015-09-14T15:07:27Z",
+            "open_issues": 13,
             "owner": "cbd",
             "repo": "edis",
-            "stars": 518
+            "stars": 518,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -594,12 +937,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Storehaus is a library that makes it easy to work with asynchronous key value stores",
+            "homepage": null,
             "id": 7762878,
             "language": "Scala",
+            "license": "Apache-2.0",
             "last_commit": "2020-07-17T18:18:03Z",
+            "open_issues": 78,
             "owner": "twitter",
             "repo": "storehaus",
-            "stars": 465
+            "stars": 465,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -610,12 +958,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Graviton Database: ZFS for key-value stores.",
+            "homepage": null,
             "id": 292903178,
             "language": "Go",
+            "license": "GPL-3.0",
             "last_commit": "2022-01-30T07:06:39Z",
+            "open_issues": 4,
             "owner": "deroproject",
             "repo": "graviton",
-            "stars": 424
+            "stars": 424,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -626,12 +979,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The DB that's replicated, sharded and transactional.",
+            "homepage": "http://treode.github.io",
             "id": 13677899,
             "language": "Scala",
+            "license": "Apache-2.0",
             "last_commit": "2015-10-31T17:31:34Z",
+            "open_issues": 0,
             "owner": "Treode",
             "repo": "store",
-            "stars": 177
+            "stars": 177,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -642,12 +1000,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Key Value Database in .Net with Object DB Layer, RPC, dynamic IL and much more",
+            "homepage": null,
             "id": 681142,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2026-08-25T11:09:50Z",
+            "open_issues": 3,
             "owner": "Bobris",
             "repo": "BTDB",
-            "stars": 144
+            "stars": 144,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -658,12 +1021,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SNA team homepage",
+            "homepage": "http://sna-projects.com",
             "id": 685593,
             "language": "PHP",
+            "license": null,
             "last_commit": "2012-09-05T22:16:12Z",
+            "open_issues": 0,
             "owner": "linkedin-sna",
             "repo": "sna-page",
-            "stars": 26
+            "stars": 26,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         }
@@ -680,12 +1048,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "high-performance graph database for real-time use cases",
+            "homepage": "https://dgraph.io",
             "id": 41349039,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T22:14:19Z",
+            "open_issues": 96,
             "owner": "dgraph-io",
             "repo": "dgraph",
-            "stars": 21781
+            "stars": 21781,
+            "topics": [
+              "database",
+              "distributed",
+              "go",
+              "knowledge-graph"
+            ]
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -696,12 +1074,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An open-source graph database",
+            "homepage": "https://cayley.io",
             "id": 20537104,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T10:33:26Z",
+            "open_issues": 93,
             "owner": "cayleygraph",
             "repo": "cayley",
-            "stars": 15063
+            "stars": 15063,
+            "topics": [
+              "cayley",
+              "go",
+              "graph",
+              "graph-database",
+              "linked-data"
+            ]
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -712,12 +1101,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Microsoft Graph Engine",
+            "homepage": null,
             "id": 81411018,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2024-10-08T20:26:47Z",
+            "open_issues": 47,
             "owner": "microsoft",
             "repo": "GraphEngine",
-            "stars": 2263
+            "stars": 2263,
+            "topics": [
+              "distributed-computing",
+              "dotnet",
+              "graph-engine",
+              "graph-query-language",
+              "in-memory-computations",
+              "in-memory-storage"
+            ]
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -728,12 +1129,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Graph Traversal Language (no longer active - see Apache TinkerPop)",
+            "homepage": "http://tinkerpop.apache.org/",
             "id": 379199,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2021-08-16T13:23:39Z",
+            "open_issues": 21,
             "owner": "tinkerpop",
             "repo": "gremlin",
-            "stars": 1951
+            "stars": 1951,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -744,12 +1150,27 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A large-scale entity and relation database supporting aggregation of properties",
+            "homepage": null,
             "id": 47973088,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2025-06-06T08:50:47Z",
+            "open_issues": 138,
             "owner": "gchq",
             "repo": "Gaffer",
-            "stars": 1787
+            "stars": 1787,
+            "topics": [
+              "accumulo",
+              "aggregation",
+              "big-data",
+              "graph",
+              "graph-database",
+              "hadoop",
+              "hbase",
+              "parquet",
+              "spark"
+            ]
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -760,12 +1181,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AgensGraph, a transactional graph database based on PostgreSQL",
+            "homepage": "https://www.skaiworldwide.com/resource",
             "id": 57401138,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T09:09:41Z",
+            "open_issues": 138,
             "owner": "skaiworldwide-oss",
             "repo": "agensgraph",
-            "stars": 1507
+            "stars": 1507,
+            "topics": [
+              "enterprise",
+              "graph-database",
+              "graphdb",
+              "multi-model-database",
+              "nosql",
+              "postgresql"
+            ]
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -776,12 +1209,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "EliasDB a graph-based database.",
+            "homepage": null,
             "id": 65619619,
             "language": "Go",
+            "license": "MPL-2.0",
             "last_commit": "2026-08-25T06:23:02Z",
+            "open_issues": 14,
             "owner": "krotik",
             "repo": "eliasdb",
-            "stars": 1035
+            "stars": 1035,
+            "topics": [
+              "cluster",
+              "clustering",
+              "database",
+              "embedded",
+              "golang",
+              "graph",
+              "graph-database",
+              "graphql",
+              "graphql-server",
+              "query-language",
+              "rest-api",
+              "standalone",
+              "supports-transactions",
+              "swagger",
+              "tutorial"
+            ]
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -792,12 +1246,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Phoebus is a distributed framework for large scale graph processing written in Erlang.",
+            "homepage": null,
             "id": 934912,
             "language": "Erlang",
+            "license": "Apache-2.0",
             "last_commit": "2012-01-15T11:15:00Z",
+            "open_issues": 0,
             "owner": "xslogic",
             "repo": "phoebus",
-            "stars": 384
+            "stars": 384,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -808,12 +1267,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "One database for user-user (follows), user-item (likes), and item-item (related items) interactions — precomputed at write time, served as simple lookups",
+            "homepage": "https://actionbase.io",
             "id": 1093894840,
             "language": "Kotlin",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T10:04:56Z",
+            "open_issues": 39,
             "owner": "kakao",
             "repo": "actionbase",
-            "stars": 225
+            "stars": 225,
+            "topics": [
+              "database",
+              "graphdb",
+              "high-throughput",
+              "low-latency",
+              "oltp",
+              "real-time",
+              "scalability"
+            ]
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -824,12 +1296,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "RDF-Centric Map/Reduce Framework and Freebase data conversion tool",
+            "homepage": null,
             "id": 6500041,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2021-11-15T06:03:33Z",
+            "open_issues": 50,
             "owner": "paulhoule",
             "repo": "infovore",
-            "stars": 148
+            "stars": 148,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         }
@@ -846,12 +1323,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Blazingly fast analytics database that will rapidly devour all of your data.",
+            "homepage": null,
             "id": 132361668,
             "language": "Rust",
+            "license": "NOASSERTION",
             "last_commit": "2026-04-23T00:07:48Z",
+            "open_issues": 14,
             "owner": "cswinter",
             "repo": "LocustDB",
-            "stars": 1648
+            "stars": 1648,
+            "topics": [
+              "analytics",
+              "database",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -862,12 +1348,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An open-source columnar data format designed for fast & realtime analytic with big data.",
+            "homepage": null,
             "id": 77196845,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2022-11-16T05:23:54Z",
+            "open_issues": 10,
             "owner": "shunfei",
             "repo": "indexr",
-            "stars": 447
+            "stars": 447,
+            "topics": [
+              "columnar-storage",
+              "datawarehouse",
+              "indexr",
+              "olap",
+              "realtime"
+            ]
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         }
@@ -884,12 +1381,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TiDB is built for agentic workloads that grow unpredictably, with ACID guarantees and native support for transactions, analytics, and vector search. No data silos. No noisy neighbors. No infrastructure ceiling.",
+            "homepage": "https://www.tidb.io/",
             "id": 41986369,
             "language": "Go",
-            "last_commit": "2026-08-28T23:14:56Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T03:40:03Z",
+            "open_issues": 6833,
             "owner": "pingcap",
             "repo": "tidb",
-            "stars": 40479
+            "stars": 40478,
+            "topics": [
+              "agent",
+              "agent-context",
+              "agent-memory",
+              "agentic",
+              "ai",
+              "cloud-native",
+              "database",
+              "distributed-database",
+              "distributed-transactions",
+              "go",
+              "hacktoberfest",
+              "htap",
+              "memory",
+              "mysql",
+              "mysql-compatibility",
+              "scale",
+              "serverless",
+              "sql",
+              "tidb"
+            ]
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -900,12 +1422,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement.",
+            "homepage": "https://www.cockroachlabs.com",
             "id": 16563587,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-26T23:11:56Z",
+            "open_issues": 8418,
             "owner": "cockroachdb",
             "repo": "cockroach",
-            "stars": 32430
+            "stars": 32429,
+            "topics": [
+              "cockroachdb",
+              "database",
+              "distributed-database",
+              "go",
+              "hacktoberfest",
+              "sql"
+            ]
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -916,12 +1450,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "YugabyteDB - the cloud native distributed SQL database for mission-critical applications.",
+            "homepage": "https://www.yugabyte.com",
             "id": 105944401,
             "language": "C",
-            "last_commit": "2026-08-28T23:27:12Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T03:59:04Z",
+            "open_issues": 8335,
             "owner": "yugabyte",
             "repo": "yugabyte-db",
-            "stars": 10502
+            "stars": 10502,
+            "topics": [
+              "cloud-native",
+              "cpp",
+              "database",
+              "distributed-database",
+              "distributed-sql",
+              "distributed-sql-database",
+              "high-performance",
+              "kubernetes",
+              "multi-cloud",
+              "multi-region",
+              "scale-out",
+              "sql"
+            ]
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -932,12 +1484,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ActorDB distributed SQL database",
+            "homepage": null,
             "id": 16109206,
             "language": "Erlang",
+            "license": "MPL-2.0",
             "last_commit": "2022-11-10T05:09:21Z",
+            "open_issues": 32,
             "owner": "biokoda",
             "repo": "actordb",
-            "stars": 1888
+            "stars": 1888,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -948,12 +1505,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bloomberg's distributed RDBMS",
+            "homepage": null,
             "id": 91593042,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T14:50:08Z",
+            "open_issues": 304,
             "owner": "bloomberg",
             "repo": "comdb2",
-            "stars": 1528
+            "stars": 1528,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -964,12 +1526,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Bayesian database table for querying the probable implications of data as easily as SQL databases query the data itself. New implementation in http://github.com/probcomp/bayeslite",
+            "homepage": "http://probcomp.csail.mit.edu/software/bayesdb/",
             "id": 13287035,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2015-09-24T18:58:50Z",
+            "open_issues": 0,
             "owner": "probcomp",
             "repo": "BayesDB",
-            "stars": 889
+            "stars": 889,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -980,12 +1547,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Relational Database Backed by Apache Kafka",
+            "homepage": null,
             "id": 206686299,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2025-10-15T21:02:31Z",
+            "open_issues": 12,
             "owner": "rayokota",
             "repo": "kareldb",
-            "stars": 389
+            "stars": 389,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -996,12 +1568,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Haeinsa is linearly scalable multi-row, multi-table transaction library for HBase",
+            "homepage": null,
             "id": 12022723,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2017-02-28T07:05:09Z",
+            "open_issues": 19,
             "owner": "VCNC",
             "repo": "haeinsa",
-            "stars": 160
+            "stars": 160,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         }
@@ -1018,12 +1595,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "High-performance, scalable time-series database designed for Industrial IoT (IIoT) scenarios",
+            "homepage": "https://tdengine.com",
             "id": 196353673,
             "language": "C",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-28T08:32:44Z",
+            "open_issues": 451,
             "owner": "taosdata",
             "repo": "TDengine",
-            "stars": 25091
+            "stars": 25092,
+            "topics": [
+              "bigdata",
+              "cloud-native",
+              "cluster",
+              "connected-vehicles",
+              "database",
+              "distributed",
+              "financial-analysis",
+              "industrial-iot",
+              "iot",
+              "metrics",
+              "monitoring",
+              "scalability",
+              "sql",
+              "tdengine",
+              "time-series",
+              "time-series-database",
+              "tsdb"
+            ]
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -1034,12 +1634,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "VictoriaMetrics: fast, cost-effective monitoring solution and time series database",
+            "homepage": "https://victoriametrics.com/",
             "id": 150954997,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T17:38:36Z",
+            "open_issues": 786,
             "owner": "VictoriaMetrics",
             "repo": "VictoriaMetrics",
-            "stars": 17610
+            "stars": 17609,
+            "topics": [
+              "database",
+              "grafana",
+              "graphite",
+              "influxdb",
+              "kubernetes",
+              "monitoring",
+              "observability",
+              "opentelemetry",
+              "opentsdb",
+              "prometheus",
+              "promql",
+              "thanos",
+              "tsdb"
+            ]
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -1050,12 +1669,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.",
+            "homepage": "https://thanos.io",
             "id": 109162639,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-26T12:51:48Z",
+            "open_issues": 884,
             "owner": "thanos-io",
             "repo": "thanos",
-            "stars": 14190
+            "stars": 14190,
+            "topics": [
+              "cncf",
+              "go",
+              "google-cloud-storage",
+              "hacktoberfest",
+              "high-availability",
+              "metrics",
+              "monitoring",
+              "observability",
+              "prometheus",
+              "prometheus-ha-pairs",
+              "prometheus-setup",
+              "s3",
+              "storage",
+              "thanos"
+            ]
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -1066,12 +1705,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Apache Druid: a high performance real-time analytics database.",
+            "homepage": "https://druid.apache.org/",
             "id": 6358188,
             "language": "Java",
-            "last_commit": "2026-08-28T22:03:01Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T03:57:52Z",
+            "open_issues": 789,
             "owner": "apache",
             "repo": "druid",
-            "stars": 14047
+            "stars": 14047,
+            "topics": [
+              "druid"
+            ]
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -1082,12 +1728,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Beringei is a high performance, in-memory storage engine for time series data.",
+            "homepage": null,
             "id": 70541093,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2018-07-11T17:33:58Z",
+            "open_issues": 13,
             "owner": "facebookarchive",
             "repo": "beringei",
-            "stars": 3152
+            "stars": 3152,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -1098,12 +1749,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fast scalable time series database",
+            "homepage": null,
             "id": 8039659,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-03-05T22:27:54Z",
+            "open_issues": 141,
             "owner": "kairosdb",
             "repo": "kairosdb",
-            "stars": 1762
+            "stars": 1762,
+            "topics": [
+              "java",
+              "kairosdb",
+              "metrics",
+              "timeseries",
+              "timeseries-database"
+            ]
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -1114,12 +1776,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Time-series database",
+            "homepage": "http://akumuli.org",
             "id": 16326644,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2022-08-07T01:52:15Z",
+            "open_issues": 63,
             "owner": "akumuli",
             "repo": "Akumuli",
-            "stars": 839
+            "stars": 839,
+            "topics": [
+              "c-plus-plus",
+              "database",
+              "metrics",
+              "time-series",
+              "time-series-database",
+              "tsdb"
+            ]
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -1130,12 +1804,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "See gitlab: https://gitlab.com/Project-FiFo/DalmatinerDB/dalmatinerdb",
+            "homepage": "https://dalmatiner.io",
             "id": 20814855,
             "language": "Erlang",
+            "license": "MIT",
             "last_commit": "2019-02-11T02:48:59Z",
+            "open_issues": 28,
             "owner": "dalmatinerdb",
             "repo": "dalmatinerdb",
-            "stars": 691
+            "stars": 691,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -1146,12 +1825,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A distributed system designed to ingest and process time series data",
+            "homepage": "http://www.blueflood.io",
             "id": 10081109,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2024-08-19T20:34:55Z",
+            "open_issues": 54,
             "owner": "rax-maas",
             "repo": "blueflood",
-            "stars": 598
+            "stars": 598,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -1162,12 +1846,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SiriDB is a highly-scalable, robust and super fast time series database. Build from the ground up SiriDB uses a unique mechanism to operate without a global index and allows server resources to be added on the fly. SiriDB's unique query language includes dynamic grouping of time series for easy analysis over large amounts of time series.",
+            "homepage": "https://siridb.com",
             "id": 55093657,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2026-08-25T10:02:28Z",
+            "open_issues": 4,
             "owner": "SiriDB",
             "repo": "siridb-server",
-            "stars": 514
+            "stars": 514,
+            "topics": [
+              "database",
+              "siridb",
+              "siridb-server",
+              "ticker-data",
+              "time-series",
+              "timeseries"
+            ]
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -1178,12 +1874,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Accumulo backed time series database",
+            "homepage": "https://code.nsa.gov/timely/",
             "id": 56099345,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-05-13T16:12:32Z",
+            "open_issues": 20,
             "owner": "NationalSecurityAgency",
             "repo": "timely",
-            "stars": 396
+            "stars": 396,
+            "topics": [
+              "accumulo",
+              "hacktoberfest",
+              "series-database",
+              "time-series",
+              "timeseries"
+            ]
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         }
@@ -1200,12 +1907,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Apache Spark - A unified analytics engine for large-scale data processing",
+            "homepage": "https://spark.apache.org/",
             "id": 17165658,
             "language": "Scala",
-            "last_commit": "2026-08-28T23:23:47Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T00:45:28Z",
+            "open_issues": 497,
             "owner": "apache",
             "repo": "spark",
-            "stars": 43901
+            "stars": 43900,
+            "topics": [
+              "big-data",
+              "java",
+              "jdbc",
+              "python",
+              "r",
+              "scala",
+              "spark",
+              "sql"
+            ]
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -1216,12 +1937,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The live data layer for apps and AI agents. Create up-to-the-second views into your business, just using SQL",
+            "homepage": "https://materialize.com",
             "id": 172104891,
             "language": "Rust",
-            "last_commit": "2026-08-28T21:52:16Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T02:59:20Z",
+            "open_issues": 672,
             "owner": "MaterializeInc",
             "repo": "materialize",
-            "stars": 6363
+            "stars": 6363,
+            "topics": [
+              "cdc",
+              "data-mesh",
+              "data-store",
+              "database",
+              "distributed-systems",
+              "kafka",
+              "materialized-view",
+              "mysql",
+              "operational-data-store",
+              "postgresql",
+              "postgresql-dialect",
+              "rust",
+              "sql",
+              "sql-server",
+              "stream-processing",
+              "streaming",
+              "streaming-data"
+            ]
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -1232,12 +1976,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "chDB is an in-process OLAP SQL Engine 🚀 powered by ClickHouse ",
+            "homepage": "https://clickhouse.com/chdb",
             "id": 606433492,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T17:38:37Z",
+            "open_issues": 38,
             "owner": "chdb-io",
             "repo": "chdb",
-            "stars": 2883
+            "stars": 2883,
+            "topics": [
+              "chdb",
+              "clickhouse",
+              "clickhouse-database",
+              "clickhouse-server",
+              "data-science",
+              "database",
+              "embedded-database",
+              "olap",
+              "python",
+              "sql"
+            ]
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         }
@@ -1254,12 +2014,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+            "homepage": "https://milvus.io",
             "id": 208728772,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T23:01:27Z",
+            "open_issues": 1330,
             "owner": "milvus-io",
             "repo": "milvus",
-            "stars": 45853
+            "stars": 45857,
+            "topics": [
+              "anns",
+              "cloud-native",
+              "diskann",
+              "distributed",
+              "embedding-database",
+              "embedding-similarity",
+              "embedding-store",
+              "faiss",
+              "golang",
+              "hnsw",
+              "image-search",
+              "llm",
+              "nearest-neighbor-search",
+              "rag",
+              "vector-database",
+              "vector-search",
+              "vector-similarity",
+              "vector-store"
+            ]
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -1270,12 +2054,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A lightweight, lightning-fast, in-process vector database",
+            "homepage": "https://zvec.org",
             "id": 1110443421,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T05:48:57Z",
+            "open_issues": 54,
             "owner": "alibaba",
             "repo": "zvec",
-            "stars": 15531
+            "stars": 15532,
+            "topics": [
+              "agent-skills",
+              "db",
+              "embedded",
+              "faiss",
+              "hnsw",
+              "llm-memory",
+              "local",
+              "rag",
+              "search-engine",
+              "semantic-search",
+              "similarity-search",
+              "vector-database",
+              "vector-db"
+            ]
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -1286,12 +2089,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The AI-native database built for LLM applications, providing incredibly fast hybrid search of dense vector, sparse vector, tensor (multi-vector), and full-text.",
+            "homepage": "https://infiniflow.org",
             "id": 515204860,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T17:10:39Z",
+            "open_issues": 71,
             "owner": "infiniflow",
             "repo": "infinity",
-            "stars": 4686
+            "stars": 4687,
+            "topics": [
+              "ai-native",
+              "approximate-nearest-neighbor-search",
+              "bm25",
+              "cpp20",
+              "cpp20-modules",
+              "embedding",
+              "full-text-search",
+              "hnsw",
+              "hybrid-search",
+              "information-retrival",
+              "multi-vector",
+              "nearest-neighbor-search",
+              "rag",
+              "search-engine",
+              "tensor-database",
+              "vector",
+              "vector-database",
+              "vector-search",
+              "vectordatabase"
+            ]
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         }
@@ -1308,12 +2136,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Apache Pulsar - distributed pub-sub messaging system",
+            "homepage": "https://pulsar.apache.org/",
             "id": 62117812,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T15:54:49Z",
+            "open_issues": 1731,
             "owner": "apache",
             "repo": "pulsar",
-            "stars": 15316
+            "stars": 15316,
+            "topics": [
+              "event-streaming",
+              "messaging",
+              "pubsub",
+              "pulsar",
+              "queuing",
+              "streaming"
+            ]
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -1324,28 +2164,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Privacy and Security focused Segment-alternative, in Golang and React  ",
+            "homepage": "https://www.rudderstack.com/",
             "id": 197743848,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T14:13:28Z",
+            "open_issues": 47,
             "owner": "rudderlabs",
             "repo": "rudder-server",
-            "stars": 4478
-          },
-          "first_seen": "2026-08-28T23:35:56.786Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Facebook Scribe",
-          "description": "streamed log data aggregator.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "id": 165886,
-            "language": "C++",
-            "last_commit": "2020-08-27T18:55:14Z",
-            "owner": "facebookarchive",
-            "repo": "scribe",
-            "stars": 3908
+            "stars": 4478,
+            "topics": [
+              "bigquery",
+              "cdp",
+              "customer-data",
+              "customer-data-lake",
+              "customer-data-pipeline",
+              "customer-data-platform",
+              "data-engineering",
+              "data-integration",
+              "data-pipeline",
+              "data-synchronization",
+              "data-warehouse",
+              "elt",
+              "etl",
+              "event-streaming",
+              "privacy",
+              "redshift",
+              "segment-alternative",
+              "snowflake",
+              "warehouse-management",
+              "warehouse-native"
+            ]
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -1356,12 +2206,49 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ingestr is a CLI tool to copy data between any databases with a single command seamlessly.",
+            "homepage": "https://getbruin.com/docs/ingestr/",
             "id": 756594023,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T16:43:43Z",
+            "open_issues": 32,
             "owner": "bruin-data",
             "repo": "ingestr",
-            "stars": 3905
+            "stars": 3909,
+            "topics": [
+              "bigquery",
+              "copy-database",
+              "data-ingestion",
+              "data-integration",
+              "data-pipeline",
+              "duckdb",
+              "ingestion-pipeline",
+              "mssql",
+              "postgresql",
+              "snowflake"
+            ]
+          },
+          "first_seen": "2026-08-28T23:35:56.786Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Facebook Scribe",
+          "description": "streamed log data aggregator.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "description": "Scribe is a server for aggregating log data streamed in real time from a large number of servers.",
+            "homepage": null,
+            "id": 165886,
+            "language": "C++",
+            "license": "Apache-2.0",
+            "last_commit": "2020-08-27T18:55:14Z",
+            "open_issues": 51,
+            "owner": "facebookarchive",
+            "repo": "scribe",
+            "stars": 3908,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -1372,12 +2259,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "DEPRECATED: Data collection and processing made easy.",
+            "homepage": "http://hekad.readthedocs.org/",
             "id": 6248212,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2024-01-23T01:44:36Z",
+            "open_issues": 232,
             "owner": "mozilla-services",
             "repo": "heka",
-            "stars": 3394
+            "stars": 3394,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -1388,12 +2280,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A distributed data integration framework that simplifies common aspects of big data integration such as data ingestion, replication, organization and lifecycle management for both streaming and batch data ecosystems.",
+            "homepage": "https://gobblin.apache.org/",
             "id": 27392543,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-31T06:45:24Z",
+            "open_issues": 142,
             "owner": "apache",
             "repo": "gobblin",
-            "stars": 2270
+            "stars": 2270,
+            "topics": [
+              "apache",
+              "data",
+              "ingestion",
+              "management",
+              "replication"
+            ]
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -1404,12 +2307,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Secor is a service implementing Kafka log persistence",
+            "homepage": null,
             "id": 18818296,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-03-10T08:39:10Z",
+            "open_issues": 269,
             "owner": "pinterest",
             "repo": "secor",
-            "stars": 1856
+            "stars": 1856,
+            "topics": [
+              "kafka"
+            ]
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -1420,12 +2330,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🦎 A lightweight, multi-protocol gateway for event-driven applications and AI agents. Expose and govern Kafka, MQTT, APIs, and MCP through one high-performance engine with shared routing, security, schema, and observability.",
+            "homepage": "https://docs.aklivity.io/latest",
             "id": 436039945,
             "language": "Java",
-            "last_commit": "2026-08-28T22:55:28Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-28T23:59:33Z",
+            "open_issues": 227,
             "owner": "aklivity",
             "repo": "zilla",
-            "stars": 1713
+            "stars": 1713,
+            "topics": [
+              "api-gateway",
+              "asyncapi",
+              "event-driven-architecture",
+              "event-stream-proxy",
+              "event-streaming",
+              "grpc",
+              "iot",
+              "kafka",
+              "kafka-proxy",
+              "mqtt",
+              "openapi",
+              "proxy",
+              "rest",
+              "server-sent-events",
+              "streaming-api"
+            ]
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -1436,12 +2367,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Build data pipelines with SQL and Python, ingest data from different sources, add quality checks, and build end-to-end flows.",
+            "homepage": "https://getbruin.com/docs/bruin/",
             "id": 674225653,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T22:08:48Z",
+            "open_issues": 60,
             "owner": "bruin-data",
             "repo": "bruin",
-            "stars": 1678
+            "stars": 1679,
+            "topics": [
+              "analytics",
+              "bigquery",
+              "data-analysis",
+              "data-ingestion",
+              "data-modeling",
+              "data-pipelines",
+              "data-platform",
+              "data-transformation",
+              "python",
+              "snowflake",
+              "sql"
+            ]
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -1452,12 +2400,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-source ETL/ELT you deploy on your own servers or cloud. Built on DuckDB: no-code/low-code visual pipelines or SQL, 385 components, dbt, CDC, data quality, reverse ETL, lineage, MCP for AI agents. No vendor cloud, no per-row billing.",
+            "homepage": "https://duckle.org/",
             "id": 1245355924,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T17:43:50Z",
+            "open_issues": 52,
             "owner": "slothflowlabs",
             "repo": "duckle",
-            "stars": 1245
+            "stars": 1245,
+            "topics": [
+              "cdc",
+              "connectors",
+              "data-engineering",
+              "data-integration",
+              "data-orchestration",
+              "data-pipeline",
+              "data-quality",
+              "data-transformation",
+              "dbt",
+              "duckdb",
+              "elt",
+              "etl",
+              "kubernetes",
+              "lakehouse",
+              "low-code",
+              "mcp",
+              "no-code",
+              "open-source",
+              "reverse-etl",
+              "self-hosted"
+            ]
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -1468,12 +2442,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Build platforms that flexibly mix SQL, batch, and stream processing paradigms",
+            "homepage": "https://gazette.dev",
             "id": 107715151,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-24T18:00:56Z",
+            "open_issues": 21,
             "owner": "gazette",
             "repo": "core",
-            "stars": 796
+            "stars": 796,
+            "topics": [
+              "brokers",
+              "event-sourcing",
+              "golang",
+              "stream-processing",
+              "streaming-platforms"
+            ]
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -1484,12 +2469,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Netflix's distributed Data Pipeline",
+            "homepage": null,
             "id": 8914350,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2023-04-10T10:22:36Z",
+            "open_issues": 6,
             "owner": "Netflix",
             "repo": "suro",
-            "stars": 796
+            "stars": 796,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -1500,12 +2490,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A probabilistic data structure service and storage",
+            "homepage": null,
             "id": 39992228,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2016-05-10T08:23:59Z",
+            "open_issues": 10,
             "owner": "skizzehq",
             "repo": "skizze",
-            "stars": 773
+            "stars": 773,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -1516,12 +2511,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Hadoop log aggregator and dashboard",
+            "homepage": null,
             "id": 7809570,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2013-10-29T23:15:23Z",
+            "open_issues": 14,
             "owner": "LinkedInAttic",
             "repo": "white-elephant",
-            "stars": 190
+            "stars": 190,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -1532,12 +2532,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hadoop Data Integration with various databases, ftp servers, salesforce. Incremental update, dedup, append, merge your data on Hadoop.",
+            "homepage": "www.nubetech.co/products",
             "id": 1081160,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2013-04-11T06:53:10Z",
+            "open_issues": 5,
             "owner": "sonalgoyal",
             "repo": "hiho",
-            "stars": 92
+            "stars": 92,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -1548,12 +2553,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "DocId set compression and set operation library",
+            "homepage": "http://data.linkedin.com/kamikaze/",
             "id": 5876496,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2014-03-07T23:34:40Z",
+            "open_issues": 4,
             "owner": "LinkedInAttic",
             "repo": "kamikaze",
-            "stars": 22
+            "stars": 22,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         }
@@ -1570,12 +2580,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in.",
+            "homepage": null,
             "id": 5888353,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-18T11:15:46Z",
+            "open_issues": 170,
             "owner": "spotify",
             "repo": "luigi",
-            "stars": 18768
+            "stars": 18768,
+            "topics": [
+              "hadoop",
+              "luigi",
+              "orchestration-framework",
+              "python",
+              "scheduling"
+            ]
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -1586,12 +2607,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A lightweight opinionated ETL framework, halfway between plain scripts and Apache Airflow",
+            "homepage": null,
             "id": 127569316,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-12-15T16:14:47Z",
+            "open_issues": 26,
             "owner": "mara",
             "repo": "mara-pipelines",
-            "stars": 2089
+            "stars": 2089,
+            "topics": [
+              "data",
+              "data-integration",
+              "etl",
+              "pipeline",
+              "postgresql",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -1602,12 +2635,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Twitter's collection of LZO and Protocol Buffer-related Hadoop, Pig, Hive, and HBase code.",
+            "homepage": null,
             "id": 578435,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2023-04-10T11:31:57Z",
+            "open_issues": 87,
             "owner": "twitter",
             "repo": "elephant-bird",
-            "stars": 1133
+            "stars": 1133,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -1618,12 +2656,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Spring XD makes it easy to solve common big data problems such as data ingestion and export, real-time analytics, and batch workflow orchestration",
+            "homepage": "http://projects.spring.io/spring-xd",
             "id": 9349347,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2022-04-04T18:41:04Z",
+            "open_issues": 68,
             "owner": "spring-attic",
             "repo": "spring-xd",
-            "stars": 475
+            "stars": 475,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -1634,12 +2677,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Serverless proxy for Spark cluster",
+            "homepage": "http://hydrosphere.io/mist/",
             "id": 49703422,
             "language": "Scala",
+            "license": "Apache-2.0",
             "last_commit": "2026-04-13T17:08:02Z",
+            "open_issues": 32,
             "owner": "Hydrospheredata",
             "repo": "mist",
-            "stars": 326
+            "stars": 326,
+            "topics": [
+              "apache-spark",
+              "api",
+              "big-data",
+              "serverless"
+            ]
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         }
@@ -1656,12 +2709,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",
+            "homepage": "https://airflow.apache.org/",
             "id": 33884891,
             "language": "Python",
-            "last_commit": "2026-08-28T22:27:46Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T04:03:00Z",
+            "open_issues": 1982,
             "owner": "apache",
             "repo": "airflow",
-            "stars": 46632
+            "stars": 46630,
+            "topics": [
+              "airflow",
+              "apache",
+              "apache-airflow",
+              "automation",
+              "dag",
+              "data-engineering",
+              "data-integration",
+              "data-orchestrator",
+              "data-pipelines",
+              "data-science",
+              "elt",
+              "etl",
+              "machine-learning",
+              "mlops",
+              "orchestration",
+              "python",
+              "scheduler",
+              "workflow",
+              "workflow-engine",
+              "workflow-orchestration"
+            ]
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -1672,12 +2751,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An orchestration platform for the development, production, and observation of data assets.",
+            "homepage": "https://dagster.io",
             "id": 131619646,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T17:14:34Z",
+            "open_issues": 2586,
             "owner": "dagster-io",
             "repo": "dagster",
-            "stars": 16072
+            "stars": 16072,
+            "topics": [
+              "analytics",
+              "dagster",
+              "data-engineering",
+              "data-integration",
+              "data-orchestrator",
+              "data-pipelines",
+              "data-science",
+              "etl",
+              "metadata",
+              "mlops",
+              "orchestration",
+              "python",
+              "scheduler",
+              "workflow",
+              "workflow-automation"
+            ]
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -1688,12 +2788,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple, distributed task scheduler and runner with a web based UI.",
+            "homepage": "http://cronicle.net",
             "id": 49249526,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T00:25:03Z",
+            "open_issues": 333,
             "owner": "jhuckaby",
             "repo": "Cronicle",
-            "stars": 5812
+            "stars": 5812,
+            "topics": [
+              "cron",
+              "crontab",
+              "multiserver",
+              "scheduler"
+            ]
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -1704,12 +2814,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Sparrow scheduling platform (U.C. Berkeley).",
+            "homepage": null,
             "id": 3236297,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2020-07-25T21:12:18Z",
+            "open_issues": 4,
             "owner": "radlab",
             "repo": "sparrow",
-            "stars": 328
+            "stars": 328,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -1720,12 +2835,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Schedoscope is a scheduling framework for painfree agile development, testing, (re)loading, and monitoring of your datahub, lake, or whatever you choose to call your Hadoop data warehouse these days.",
+            "homepage": "http://schedoscope.org",
             "id": 36284716,
             "language": "Scala",
+            "license": "Apache-2.0",
             "last_commit": "2019-11-14T12:15:02Z",
+            "open_issues": 6,
             "owner": "ottogroup",
             "repo": "schedoscope",
-            "stars": 98
+            "stars": 98,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         }
@@ -1742,12 +2862,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An Open Source Machine Learning Framework for Everyone",
+            "homepage": "https://tensorflow.org",
             "id": 45717250,
             "language": "C++",
-            "last_commit": "2026-08-28T23:35:21Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T04:15:11Z",
+            "open_issues": 2957,
             "owner": "tensorflow",
             "repo": "tensorflow",
-            "stars": 197766
+            "stars": 197768,
+            "topics": [
+              "deep-learning",
+              "deep-neural-networks",
+              "distributed",
+              "machine-learning",
+              "ml",
+              "neural-network",
+              "python",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -1758,12 +2892,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "scikit-learn: machine learning in Python",
+            "homepage": "https://scikit-learn.org",
             "id": 843222,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-28T21:28:28Z",
+            "open_issues": 2134,
             "owner": "scikit-learn",
             "repo": "scikit-learn",
-            "stars": 67089
+            "stars": 67091,
+            "topics": [
+              "data-analysis",
+              "data-science",
+              "machine-learning",
+              "python",
+              "statistics"
+            ]
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -1774,12 +2919,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Deep Learning for humans",
+            "homepage": "http://keras.io/",
             "id": 33015583,
             "language": "Python",
-            "last_commit": "2026-08-28T23:25:55Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T23:44:04Z",
+            "open_issues": 232,
             "owner": "keras-team",
             "repo": "keras",
-            "stars": 64265
+            "stars": 64265,
+            "topics": [
+              "data-science",
+              "deep-learning",
+              "jax",
+              "machine-learning",
+              "neural-networks",
+              "python",
+              "pytorch",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -1790,12 +2949,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Deep Learning in Javascript. Train Convolutional Neural Networks (or ordinary ones) in your browser.",
+            "homepage": null,
             "id": 15642233,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-01-07T21:33:23Z",
+            "open_issues": 75,
             "owner": "karpathy",
             "repo": "convnetjs",
-            "stars": 11197
+            "stars": 11197,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -1806,12 +2970,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Vowpal Wabbit is a machine learning system which pushes the frontier of machine learning with techniques such as online, hashing, allreduce, reductions, learning2search, active, and interactive learning.  ",
+            "homepage": "https://vowpalwabbit.org",
             "id": 265995,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-26T18:58:34Z",
+            "open_issues": 2,
             "owner": "VowpalWabbit",
             "repo": "vowpal_wabbit",
-            "stars": 8706
+            "stars": 8706,
+            "topics": [
+              "active-learning",
+              "c-plus-plus",
+              "contextual-bandits",
+              "cpp",
+              "learning-to-search",
+              "machine-learning",
+              "online-learning",
+              "reinforcement-learning"
+            ]
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -1822,12 +3000,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Simple feed-forward neural network in JavaScript",
+            "homepage": null,
             "id": 658594,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2020-09-03T20:20:29Z",
+            "open_issues": 21,
             "owner": "harthur",
             "repo": "brain",
-            "stars": 7988
+            "stars": 7988,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -1838,12 +3021,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "H2O is an Open Source, Distributed, Fast & Scalable Machine Learning Platform: Deep Learning, Gradient Boosting (GBM) & XGBoost, Random Forest, Generalized Linear Modeling (GLM with Elastic Net), K-Means, PCA, Generalized Additive Models (GAM), RuleFit, Support Vector Machine (SVM), Stacked Ensembles, Automatic Machine Learning (AutoML), etc.",
+            "homepage": "http://h2o.ai",
             "id": 17371412,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-26T10:05:32Z",
+            "open_issues": 2883,
             "owner": "h2oai",
             "repo": "h2o-3",
-            "stars": 7495
+            "stars": 7496,
+            "topics": [
+              "automl",
+              "big-data",
+              "data-science",
+              "deep-learning",
+              "distributed",
+              "ensemble-learning",
+              "gbm",
+              "gpu",
+              "h2o",
+              "h2o-automl",
+              "hadoop",
+              "java",
+              "machine-learning",
+              "naive-bayes",
+              "opensource",
+              "pca",
+              "python",
+              "r",
+              "random-forest",
+              "spark"
+            ]
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -1854,12 +3063,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Open Source Feature Store for AI/ML",
+            "homepage": "https://feast.dev",
             "id": 161133770,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T01:11:20Z",
+            "open_issues": 414,
             "owner": "feast-dev",
             "repo": "feast",
-            "stars": 7236
+            "stars": 7237,
+            "topics": [
+              "big-data",
+              "data-engineering",
+              "data-quality",
+              "data-science",
+              "feature-store",
+              "features",
+              "machine-learning",
+              "ml",
+              "mlops",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -1870,12 +3095,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Numenta Platform for Intelligent Computing is an implementation of Hierarchical Temporal Memory (HTM), a theory of intelligence based strictly on the neuroscience of the neocortex.",
+            "homepage": "http://numenta.org/",
             "id": 9252533,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-12-03T17:50:20Z",
+            "open_issues": 465,
             "owner": "numenta",
             "repo": "nupic-legacy",
-            "stars": 6349
+            "stars": 6349,
+            "topics": [
+              "artificial-intelligence",
+              "hierarchical-temporal-memory",
+              "machine-intelligence",
+              "neocortex"
+            ]
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -1886,12 +3121,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Aim 💫 — An easy-to-use & supercharged open-source experiment tracker.",
+            "homepage": "https://aimstack.io",
             "id": 189640071,
             "language": "Python",
-            "last_commit": "2026-08-28T03:55:53Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T02:37:15Z",
+            "open_issues": 469,
             "owner": "aimhubio",
             "repo": "aim",
-            "stars": 6246
+            "stars": 6246,
+            "topics": [
+              "ai",
+              "data-science",
+              "data-visualization",
+              "experiment-tracking",
+              "machine-learning",
+              "metadata",
+              "metadata-tracking",
+              "ml",
+              "mlflow",
+              "mlops",
+              "prompt-engineering",
+              "python",
+              "pytorch",
+              "tensorboard",
+              "tensorflow",
+              "visualization"
+            ]
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -1902,12 +3159,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🛠 All-in-one web-based IDE specialized for machine learning and data science.",
+            "homepage": "https://mltooling.org/ml-workspace",
             "id": 188880197,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2024-07-26T07:39:39Z",
+            "open_issues": 0,
             "owner": "ml-tooling",
             "repo": "ml-workspace",
-            "stars": 3544
+            "stars": 3544,
+            "topics": [
+              "anaconda",
+              "data-analysis",
+              "data-science",
+              "data-visualization",
+              "deep-learning",
+              "docker",
+              "gpu",
+              "jupyter",
+              "jupyter-lab",
+              "jupyter-notebook",
+              "kubernetes",
+              "machine-learning",
+              "neural-networks",
+              "nlp",
+              "python",
+              "pytorch",
+              "r",
+              "scikit-learn",
+              "tensorflow",
+              "vscode"
+            ]
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -1918,12 +3201,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PyTorch Geometric Temporal: Spatiotemporal Signal Processing with Neural Machine Learning Models (CIKM 2021)",
+            "homepage": null,
             "id": 275276531,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-05-30T17:29:01Z",
+            "open_issues": 30,
             "owner": "benedekrozemberczki",
             "repo": "pytorch_geometric_temporal",
-            "stars": 2992
+            "stars": 2992,
+            "topics": [
+              "deep-learning",
+              "gcn",
+              "gnn",
+              "graph-convolution",
+              "graph-convolutional-networks",
+              "graph-embedding",
+              "graph-neural-networks",
+              "network-embedding",
+              "network-science",
+              "node-embedding",
+              "pytorch",
+              "spatial-analysis",
+              "spatial-data",
+              "spatio-temporal-analysis",
+              "spatio-temporal-data",
+              "spatiotemporal",
+              "temporal-data",
+              "temporal-graphs",
+              "temporal-networks"
+            ]
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -1934,12 +3242,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Karate Club: An API Oriented Open-source Python Framework for Unsupervised Learning on Graphs (CIKM 2020)",
+            "homepage": "https://karateclub.readthedocs.io",
             "id": 226155948,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2024-07-17T19:00:35Z",
+            "open_issues": 12,
             "owner": "benedekrozemberczki",
             "repo": "karateclub",
-            "stars": 2286
+            "stars": 2286,
+            "topics": [
+              "2vec",
+              "community-detection",
+              "deepwalk",
+              "gcn",
+              "graph-clustering",
+              "graph-embedding",
+              "graph2vec",
+              "label-propagation",
+              "louvain",
+              "machine-learning",
+              "network-embedding",
+              "network-science",
+              "networkx",
+              "networkx-graph",
+              "node-embedding",
+              "node2vec",
+              "scikit",
+              "sklearn",
+              "supervised-learning",
+              "unsupervised-learning"
+            ]
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -1950,12 +3284,26 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Oryx 2: Lambda architecture on Apache Spark, Apache Kafka for real-time large scale machine learning",
+            "homepage": "http://oryx.io",
             "id": 22269384,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2021-08-16T11:16:27Z",
+            "open_issues": 1,
             "owner": "OryxProject",
             "repo": "oryx",
-            "stars": 1782
+            "stars": 1782,
+            "topics": [
+              "apache-kafka",
+              "apache-spark",
+              "cloudera",
+              "java",
+              "kafka",
+              "lambda-architecture",
+              "machine-learning",
+              "oryx"
+            ]
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -1966,12 +3314,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CPU and GPU-accelerated Machine Learning Library",
+            "homepage": null,
             "id": 6328806,
             "language": "Scala",
+            "license": "BSD-3-Clause",
             "last_commit": "2022-10-04T23:35:03Z",
+            "open_issues": 67,
             "owner": "BIDData",
             "repo": "BIDMach",
-            "stars": 920
+            "stars": 920,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -1982,12 +3335,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fast multilayer perceptron neural network library for iOS and Mac OS X",
+            "homepage": null,
             "id": 13090545,
             "language": "Objective-C",
+            "license": "BSD-2-Clause",
             "last_commit": "2016-09-30T11:52:51Z",
+            "open_issues": 1,
             "owner": "nikolaypavlov",
             "repo": "MLPNeuralNet",
-            "stars": 899
+            "stars": 899,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -1998,12 +3356,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Little Ball of Fur - A graph sampling extension library for NetworKit and NetworkX (CIKM 2020)",
+            "homepage": "https://little-ball-of-fur.readthedocs.io",
             "id": 260969405,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2025-12-20T17:20:57Z",
+            "open_issues": 7,
             "owner": "benedekrozemberczki",
             "repo": "littleballoffur",
-            "stars": 715
+            "stars": 715,
+            "topics": [
+              "community-structure",
+              "deep-learning",
+              "forest-fire",
+              "graph",
+              "graph-algorithms",
+              "graph-embedding",
+              "graph-sampling",
+              "graph-sparsification",
+              "machine-learning",
+              "metropolis-hastings",
+              "minimum-spanning-tree",
+              "network-analytics",
+              "network-embedding",
+              "network-sampling",
+              "network-science",
+              "networkx",
+              "node-embedding",
+              "random-walk",
+              "sampling"
+            ]
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -2014,12 +3397,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Flexible and Extensible Machine Learning in Ruby",
+            "homepage": null,
             "id": 245893,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2017-04-06T06:06:48Z",
+            "open_issues": 2,
             "owner": "danielsdeleo",
             "repo": "Decider",
-            "stars": 383
+            "stars": 383,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -2030,12 +3418,19 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Scalable Machine Learning in Scalding",
+            "homepage": null,
             "id": 20925364,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2018-02-16T15:05:59Z",
+            "open_issues": 0,
             "owner": "etsy",
             "repo": "Conjecture",
-            "stars": 359
+            "stars": 359,
+            "topics": [
+              "non-sox"
+            ]
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -2046,12 +3441,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A distributed Spark/Scala implementation of the isolation forest and extended isolation forest algorithms for unsupervised outlier detection, featuring support for scalable training and ONNX export for easy cross-platform inference.",
+            "homepage": null,
             "id": 199073494,
             "language": "Scala",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-04T08:29:04Z",
+            "open_issues": 1,
             "owner": "linkedin",
             "repo": "isolation-forest",
-            "stars": 263
+            "stars": 263,
+            "topics": [
+              "anomaly-detection",
+              "isolation-forest",
+              "linkedin",
+              "machine-learning",
+              "onnx",
+              "outlier-detection",
+              "scala",
+              "spark",
+              "unsupervised-learning"
+            ]
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -2062,12 +3472,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The official implementation of \"The Shapley Value of Classifiers in Ensemble Games\" (CIKM 2021).",
+            "homepage": null,
             "id": 237226207,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-01-01T14:34:38Z",
+            "open_issues": 1,
             "owner": "benedekrozemberczki",
             "repo": "shapley",
-            "stars": 227
+            "stars": 227,
+            "topics": [
+              "classifier",
+              "deep-learning",
+              "ensemble",
+              "ensemble-learning",
+              "explainable-ai",
+              "explainable-ml",
+              "game-theory",
+              "game-theory-toolbox",
+              "machine-learning",
+              "owen",
+              "random-forest",
+              "random-forest-classifier",
+              "shapley",
+              "shapley-value",
+              "voting-classifier",
+              "voting-game",
+              "weighted-voting-games"
+            ]
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -2078,12 +3511,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "http://amplab.github.io/velox-modelserver/",
             "id": 22852751,
             "language": "Scala",
+            "license": "Apache-2.0",
             "last_commit": "2017-04-17T18:59:35Z",
+            "open_issues": 23,
             "owner": "amplab",
             "repo": "velox-modelserver",
-            "stars": 110
+            "stars": 110,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -2094,12 +3532,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A column-oriented approach to feature engineering. Feature engineering and machine learning: together at last!",
+            "homepage": null,
             "id": 148478673,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2018-09-10T18:01:34Z",
+            "open_issues": 0,
             "owner": "johnsonc",
             "repo": "lambdo",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         }
@@ -2116,12 +3559,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "HiBench is a big data benchmark suite.",
+            "homepage": null,
             "id": 4634707,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2025-12-15T16:28:33Z",
+            "open_issues": 257,
             "owner": "Intel-bigdata",
             "repo": "HiBench",
-            "stars": 1484
+            "stars": 1484,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -2132,12 +3580,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Statistical Workload Injector for MapReduce - Project at UC Berkeley AMP Lab",
+            "homepage": "https://github.com/SWIMProjectUCB/SWIM/wiki",
             "id": 1837325,
             "language": "Java",
+            "license": null,
             "last_commit": "2014-05-29T04:45:02Z",
+            "open_issues": 3,
             "owner": "SWIMProjectUCB",
             "repo": "SWIM",
-            "stars": 128
+            "stars": 128,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -2148,12 +3601,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Wide NoSQL benchmark for RocksDB, LevelDB, Redis, WiredTiger and MongoDB extending the Yahoo Cloud Serving Benchmark",
+            "homepage": "https://unum-cloud.github.io/ucsb/",
             "id": 463431083,
             "language": "C++",
+            "license": null,
             "last_commit": "2023-09-08T19:22:56Z",
+            "open_issues": 3,
             "owner": "unum-cloud",
             "repo": "ucsb",
-            "stars": 59
+            "stars": 59,
+            "topics": [
+              "benchmark",
+              "database",
+              "ebpf",
+              "google-benchmark",
+              "io-uring",
+              "leveldb",
+              "lsm-tree",
+              "mongodb",
+              "rocksdb",
+              "spdk",
+              "terabyte",
+              "valgrind",
+              "wiredtiger",
+              "ycsb"
+            ]
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -2164,12 +3637,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 997545644,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2025-07-23T21:10:26Z",
+            "open_issues": 1,
             "owner": "estuary",
             "repo": "estuary-warehouse-benchmark",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         }
@@ -2186,12 +3664,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "🌲 Configuration flaws detector for Hadoop, MongoDB, MySQL, and more!",
+            "homepage": null,
             "id": 80796329,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2020-06-21T18:24:55Z",
+            "open_issues": 0,
             "owner": "shouc",
             "repo": "daudit",
-            "stars": 105
+            "stars": 105,
+            "topics": [
+              "auditing",
+              "bigdata",
+              "hadoop-spark",
+              "mongodb",
+              "redis",
+              "security"
+            ]
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -2202,12 +3692,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Client-side AES-256-GCM zero-knowledge encryption library. Browser-native Web Crypto API, no dependencies. Powers FileShot.io.",
+            "homepage": "https://fileshot.io",
             "id": 1100916010,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2026-06-03T19:39:42Z",
+            "open_issues": 1,
             "owner": "FileShot",
             "repo": "FileShotZKE",
-            "stars": 30
+            "stars": 30,
+            "topics": [
+              "aes-256",
+              "aes-256-gcm",
+              "browser-encryption",
+              "client-side-encryption",
+              "encryption",
+              "file-sharing",
+              "file-transfer",
+              "javascript",
+              "privacy",
+              "web-crypto-api",
+              "zero-knowledge-encryption"
+            ]
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         }
@@ -2224,12 +3731,20 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Deploy and manage containers (including Docker) on top of Apache Mesos at scale.",
+            "homepage": "https://mesosphere.github.io/marathon/",
             "id": 10941409,
             "language": "Scala",
+            "license": "Apache-2.0",
             "last_commit": "2022-09-08T05:13:23Z",
+            "open_issues": 29,
             "owner": "d2iq-archive",
             "repo": "marathon",
-            "stars": 4028
+            "stars": 4028,
+            "topics": [
+              "dcos",
+              "dcos-orchestration-guild"
+            ]
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -2240,12 +3755,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Apache Linkis builds a computation middleware layer to facilitate connection, governance and orchestration between the upper applications and the underlying data engines.",
+            "homepage": "https://linkis.apache.org/",
             "id": 198368711,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-19T08:13:46Z",
+            "open_issues": 174,
             "owner": "apache",
             "repo": "linkis",
-            "stars": 3407
+            "stars": 3407,
+            "topics": [
+              "application-manager",
+              "context-service",
+              "engine",
+              "hive",
+              "hive-table",
+              "impala",
+              "jdbc",
+              "jobserver",
+              "linkis",
+              "livy",
+              "presto",
+              "pyspark",
+              "resource-manager",
+              "rest-api",
+              "scriptis",
+              "spark",
+              "sql",
+              "storage",
+              "thrift-server",
+              "udf"
+            ]
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -2256,12 +3797,19 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Mirror of Apache Slider",
+            "homepage": null,
             "id": 20051204,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2018-12-11T14:03:07Z",
+            "open_issues": 6,
             "owner": "apache",
             "repo": "incubator-retired-slider",
-            "stars": 79
+            "stars": 79,
+            "topics": [
+              "retired"
+            ]
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         }
@@ -2278,12 +3826,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Easy & Flexible Alerting With ElasticSearch",
+            "homepage": "https://elastalert.readthedocs.org",
             "id": 27091760,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-08-07T06:30:10Z",
+            "open_issues": 1401,
             "owner": "YelpArchive",
             "repo": "elastalert",
-            "stars": 7987
+            "stars": 7987,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -2294,12 +3847,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The leader in Customer Data Infrastructure",
+            "homepage": "https://snowplow.io",
             "id": 3591964,
             "language": "Scala",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-26T12:44:39Z",
+            "open_issues": 59,
             "owner": "snowplow",
             "repo": "snowplow",
-            "stars": 7030
+            "stars": 7030,
+            "topics": [
+              "analytics",
+              "data",
+              "data-collection",
+              "data-pipeline",
+              "marketing-analytics",
+              "product-analytics",
+              "snowplow",
+              "snowplow-events",
+              "snowplow-pipeline"
+            ]
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -2310,12 +3878,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "In-memory dimensional time series database.",
+            "homepage": null,
             "id": 22631422,
             "language": "Scala",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T00:45:35Z",
+            "open_issues": 8,
             "owner": "Netflix",
             "repo": "atlas",
-            "stars": 3564
+            "stars": 3564,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -2326,12 +3899,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open source framework for processing, monitoring, and alerting on time series data",
+            "homepage": null,
             "id": 41681600,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-10T15:38:52Z",
+            "open_issues": 833,
             "owner": "influxdata",
             "repo": "kapacitor",
-            "stars": 2375
+            "stars": 2375,
+            "topics": [
+              "kapacitor",
+              "monitoring",
+              "time-series"
+            ]
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -2342,12 +3924,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An open source event analytics platform",
+            "homepage": "http://tinyurl.com/eventhub",
             "id": 19466626,
             "language": "Java",
+            "license": null,
             "last_commit": "2022-04-05T11:51:24Z",
+            "open_issues": 1,
             "owner": "Codecademy",
             "repo": "EventHub",
-            "stars": 1336
+            "stars": 1336,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -2358,12 +3945,26 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "SQL-based streaming analytics platform at scale",
+            "homepage": null,
             "id": 103989411,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2020-06-21T16:02:38Z",
+            "open_issues": 18,
             "owner": "uber-archive",
             "repo": "AthenaX",
-            "stars": 1223
+            "stars": 1223,
+            "topics": [
+              "analytics",
+              "calcite",
+              "data",
+              "flink",
+              "sql",
+              "stream",
+              "streaming",
+              "uber"
+            ]
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -2374,12 +3975,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Project SnappyData - memory optimized analytics database, based on Apache Spark™ and Apache Geode™. Stream, Transact, Analyze, Predict in one cluster ",
+            "homepage": "http://www.snappydata.io",
             "id": 42580991,
             "language": "Scala",
+            "license": "NOASSERTION",
             "last_commit": "2022-11-21T12:17:56Z",
+            "open_issues": 117,
             "owner": "TIBCOSoftware",
             "repo": "snappydata",
-            "stars": 1033
+            "stars": 1033,
+            "topics": [
+              "analytics",
+              "memory-database",
+              "scale",
+              "snappydata",
+              "spark",
+              "stream",
+              "transaction"
+            ]
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -2390,12 +4004,19 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "An Alert Management Web Application",
+            "homepage": "https://demo.fouroneone.io",
             "id": 65576706,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2023-04-09T21:03:54Z",
+            "open_issues": 29,
             "owner": "etsy",
             "repo": "411",
-            "stars": 967
+            "stars": 967,
+            "topics": [
+              "non-sox"
+            ]
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -2406,12 +4027,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fast and reliable message broker built on top of Kafka.",
+            "homepage": "http://hermes.allegro.tech",
             "id": 35662043,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-18T15:23:50Z",
+            "open_issues": 7,
             "owner": "allegro",
             "repo": "hermes",
-            "stars": 865
+            "stars": 865,
+            "topics": [
+              "hacktoberfest",
+              "hermes",
+              "kafka",
+              "messaging",
+              "pubsub"
+            ]
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -2422,12 +4054,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📈 Collect customer event data from your apps. (Note that this project only includes the API collector, not the visualization platform)",
+            "homepage": "https://rakam.io",
             "id": 15971461,
             "language": "Java",
+            "license": "AGPL-3.0",
             "last_commit": "2021-11-13T01:21:45Z",
+            "open_issues": 13,
             "owner": "rakam-io",
             "repo": "rakam-api",
-            "stars": 791
+            "stars": 791,
+            "topics": [
+              "analytics",
+              "analytics-platform",
+              "bi-server",
+              "big-data",
+              "java"
+            ]
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -2438,12 +4081,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Substation is a toolkit for routing, normalizing, and enriching security event and audit logs.",
+            "homepage": "https://substation.readme.io",
             "id": 481983343,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-01-20T18:53:05Z",
+            "open_issues": 3,
             "owner": "brexhq",
             "repo": "substation",
-            "stars": 405
+            "stars": 405,
+            "topics": [
+              "automation",
+              "aws",
+              "logging",
+              "monitoring",
+              "observability",
+              "security"
+            ]
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -2454,12 +4109,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Next-generation web analytics processing with Scala, Spark, and Parquet.",
+            "homepage": "http://adobe-research.github.io/spindle/",
             "id": 22998139,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2015-03-28T16:48:42Z",
+            "open_issues": 2,
             "owner": "adobe-research",
             "repo": "spindle",
-            "stars": 330
+            "stars": 330,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -2470,12 +4130,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "An convenient R tool for manipulating tables in PostgreSQL type databases and a wrapper of Apache MADlib.",
+            "homepage": "https://pivotalsoftware.github.io/gp-r/",
             "id": 9801943,
             "language": "R",
+            "license": null,
             "last_commit": "2022-11-02T21:17:09Z",
+            "open_issues": 15,
             "owner": "greenplum-db",
             "repo": "PivotalR-archive",
-            "stars": 127
+            "stars": 127,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         }
@@ -2492,12 +4157,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A library for efficient similarity search and clustering of dense vectors.",
+            "homepage": "https://faiss.ai",
             "id": 81227005,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2026-08-28T17:10:48Z",
+            "open_issues": 279,
             "owner": "facebookresearch",
             "repo": "faiss",
-            "stars": 40814
+            "stars": 40814,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -2508,12 +4178,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Approximate Nearest Neighbors in C++/Python optimized for memory usage and loading/saving to disk",
+            "homepage": null,
             "id": 9155431,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2025-10-29T14:08:37Z",
+            "open_issues": 86,
             "owner": "spotify",
             "repo": "annoy",
-            "stars": 14291
+            "stars": 14292,
+            "topics": [
+              "approximate-nearest-neighbor-search",
+              "c-plus-plus",
+              "golang",
+              "locality-sensitive-hashing",
+              "lua",
+              "nearest-neighbor-search",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -2524,12 +4207,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Elassandra = Elasticsearch + Apache Cassandra",
+            "homepage": "http://www.elassandra.io",
             "id": 41209174,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-05-17T15:18:41Z",
+            "open_issues": 60,
             "owner": "strapdata",
             "repo": "elassandra",
-            "stars": 1714
+            "stars": 1714,
+            "topics": [
+              "aggregation",
+              "cassandra",
+              "completion",
+              "elasticsearch",
+              "fuzzy-search",
+              "kibana",
+              "logstash",
+              "lucene",
+              "masterless",
+              "mission-critical",
+              "nosql",
+              "rest-api",
+              "search",
+              "spark"
+            ]
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -2540,12 +4243,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A flexible, partial, out-of-order and real-time typeahead search library",
+            "homepage": "http://sna-projects.com/cleo",
             "id": 2506397,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2013-11-13T17:51:52Z",
+            "open_issues": 8,
             "owner": "LinkedInAttic",
             "repo": "cleo",
-            "stars": 567
+            "stars": 567,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -2556,12 +4264,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "realtime search/indexing system",
+            "homepage": "http://senseidb.github.com/zoie/",
             "id": 536411,
             "language": "Java",
+            "license": null,
             "last_commit": "2022-12-15T23:52:25Z",
+            "open_issues": 16,
             "owner": "senseidb",
             "repo": "zoie",
-            "stars": 369
+            "stars": 369,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         }
@@ -2578,12 +4291,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A fast, light-weight proxy for memcached and redis",
+            "homepage": null,
             "id": 3516624,
             "language": "C",
+            "license": "Apache-2.0",
             "last_commit": "2024-03-29T03:09:06Z",
+            "open_issues": 194,
             "owner": "twitter",
             "repo": "twemproxy",
-            "stars": 12338
+            "stars": 12338,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -2594,12 +4312,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Memcache on SSD",
+            "homepage": null,
             "id": 7412800,
             "language": "C",
+            "license": "Apache-2.0",
             "last_commit": "2021-11-01T18:32:51Z",
+            "open_issues": 11,
             "owner": "twitter",
             "repo": "fatcache",
-            "stars": 1299
+            "stars": 1299,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -2610,12 +4333,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Twemcache is the Twitter Memcached",
+            "homepage": "https://twitter.com/twemcache",
             "id": 4979256,
             "language": "C",
+            "license": "BSD-3-Clause",
             "last_commit": "2021-11-01T18:31:37Z",
+            "open_issues": 13,
             "owner": "twitter",
             "repo": "twemcache",
-            "stars": 931
+            "stars": 931,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         }
@@ -2632,12 +4360,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.",
+            "homepage": null,
             "id": 23405758,
             "language": "C++",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-03-11T04:06:29Z",
+            "open_issues": 404,
             "owner": "google",
             "repo": "leveldb",
-            "stars": 39367
+            "stars": 39367,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -2648,12 +4381,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Erlang LSM BTree Storage",
+            "homepage": null,
             "id": 3102187,
             "language": "Erlang",
+            "license": "Apache-2.0",
             "last_commit": "2016-08-07T16:49:06Z",
+            "open_issues": 14,
             "owner": "krestenkrab",
             "repo": "hanoidb",
-            "stars": 313
+            "stars": 313,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         }
@@ -2670,12 +4408,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:",
+            "homepage": "https://metabase.com",
             "id": 30203935,
             "language": "Clojure",
-            "last_commit": "2026-08-28T23:27:56Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T04:07:28Z",
+            "open_issues": 4456,
             "owner": "metabase",
             "repo": "metabase",
-            "stars": 48981
+            "stars": 48981,
+            "topics": [
+              "analytics",
+              "bi",
+              "business-intelligence",
+              "businessintelligence",
+              "clojure",
+              "dashboard",
+              "data",
+              "data-analysis",
+              "data-visualization",
+              "database",
+              "metabase",
+              "mysql",
+              "postgres",
+              "postgresql",
+              "reporting",
+              "slack",
+              "sql-editor",
+              "visualization"
+            ]
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -2686,12 +4448,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Agentic BI. Analytics at the speed of code ⚡️",
+            "homepage": "https://lightdash.com",
             "id": 349372179,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T23:24:17Z",
+            "open_issues": 1025,
             "owner": "lightdash",
             "repo": "lightdash",
-            "stars": 6101
+            "stars": 6102,
+            "topics": [
+              "business-intelligence",
+              "data-analytics",
+              "data-visualization",
+              "dbt"
+            ]
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -2702,12 +4474,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Business intelligence made simple",
+            "homepage": null,
             "id": 24666294,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2026-08-25T23:16:22Z",
+            "open_issues": 31,
             "owner": "ankane",
             "repo": "blazer",
-            "stars": 4795
+            "stars": 4795,
+            "topics": [
+              "business-intelligence",
+              "charts",
+              "sql"
+            ]
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         }
@@ -2724,12 +4505,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Apache Superset is a Data Visualization and Data Exploration Platform",
+            "homepage": "https://superset.apache.org/",
             "id": 39464018,
             "language": "Python",
-            "last_commit": "2026-08-28T23:33:50Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T04:07:17Z",
+            "open_issues": 611,
             "owner": "apache",
             "repo": "superset",
-            "stars": 74516
+            "stars": 74520,
+            "topics": [
+              "analytics",
+              "apache",
+              "apache-superset",
+              "asf",
+              "bi",
+              "business-analytics",
+              "business-intelligence",
+              "data-analysis",
+              "data-analytics",
+              "data-engineering",
+              "data-science",
+              "data-visualization",
+              "data-viz",
+              "flask",
+              "python",
+              "react",
+              "sql-editor",
+              "superset"
+            ]
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -2740,12 +4545,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Apache ECharts is a powerful, interactive charting and data visualization library for browser",
+            "homepage": "https://echarts.apache.org",
             "id": 9185792,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-04T09:07:09Z",
+            "open_issues": 1525,
             "owner": "apache",
             "repo": "echarts",
-            "stars": 67173
+            "stars": 67174,
+            "topics": [
+              "apache",
+              "canvas",
+              "charting-library",
+              "charts",
+              "data-visualization",
+              "data-viz",
+              "echarts",
+              "svg",
+              "visualization"
+            ]
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -2756,12 +4576,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.",
+            "homepage": "http://redash.io/",
             "id": 13926404,
             "language": "Python",
+            "license": "BSD-2-Clause",
             "last_commit": "2026-08-18T16:14:11Z",
+            "open_issues": 802,
             "owner": "getredash",
             "repo": "redash",
-            "stars": 28766
+            "stars": 28766,
+            "topics": [
+              "analytics",
+              "athena",
+              "bi",
+              "bigquery",
+              "business-intelligence",
+              "dashboard",
+              "databricks",
+              "hacktoberfest",
+              "javascript",
+              "mariadb",
+              "mysql",
+              "postgresql",
+              "python",
+              "redash",
+              "redshift",
+              "snowflake",
+              "spark",
+              "spark-sql",
+              "visualization"
+            ]
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -2772,12 +4617,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Data Apps & Dashboards for Python. No JavaScript Required.",
+            "homepage": "https://plotly.com/dash",
             "id": 33702544,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-28T22:53:13Z",
+            "open_issues": 533,
             "owner": "plotly",
             "repo": "dash",
-            "stars": 24392
+            "stars": 24392,
+            "topics": [
+              "ai",
+              "bioinformatics",
+              "charting",
+              "dash",
+              "dashboards",
+              "data-science",
+              "data-visualization",
+              "finance",
+              "flask",
+              "gui-framework",
+              "jupyter",
+              "plotly",
+              "plotly-dash",
+              "productivity",
+              "python",
+              "react",
+              "technical-computing",
+              "web-app"
+            ]
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -2788,12 +4657,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "matplotlib: plotting with Python",
+            "homepage": "https://matplotlib.org/stable/",
             "id": 1385122,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-08-28T19:16:57Z",
+            "open_issues": 1467,
             "owner": "matplotlib",
             "repo": "matplotlib",
-            "stars": 23119
+            "stars": 23120,
+            "topics": [
+              "data-science",
+              "data-visualization",
+              "gtk",
+              "matplotlib",
+              "plotting",
+              "python",
+              "qt",
+              "tk",
+              "wx"
+            ]
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -2804,12 +4688,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-source JavaScript charting library behind Plotly and Dash",
+            "homepage": "https://plotly.com/javascript/",
             "id": 45646037,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-27T20:38:30Z",
+            "open_issues": 772,
             "owner": "plotly",
             "repo": "plotly.js",
-            "stars": 18306
+            "stars": 18306,
+            "topics": [
+              "charting-library",
+              "charts",
+              "d3",
+              "data-visualization",
+              "plotly",
+              "plotly-dash",
+              "regl",
+              "visualization",
+              "webgl"
+            ]
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -2820,12 +4719,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A JavaScript library aimed at visualizing graphs of thousands of nodes and edges",
+            "homepage": "https://www.sigmajs.org/",
             "id": 3687489,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-20T15:27:58Z",
+            "open_issues": 14,
             "owner": "jacomyal",
             "repo": "sigma.js",
-            "stars": 12148
+            "stars": 12149,
+            "topics": [
+              "data-visualization",
+              "graph",
+              "graph-drawing",
+              "graph-drawing-framework",
+              "graphs",
+              "javascript",
+              "webgl"
+            ]
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -2836,12 +4748,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A visualization grammar.",
+            "homepage": "https://vega.github.io/vega",
             "id": 7994556,
             "language": "JavaScript",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-22T20:30:39Z",
+            "open_issues": 471,
             "owner": "vega",
             "repo": "vega",
-            "stars": 11979
+            "stars": 11979,
+            "topics": [
+              "canvas",
+              "d3",
+              "svg",
+              "vega",
+              "visualization",
+              "visualization-grammar"
+            ]
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -2852,12 +4776,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Gephi - The Open Graph Viz Platform",
+            "homepage": "http://gephi.org",
             "id": 2624521,
             "language": "Java",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-28T07:55:59Z",
+            "open_issues": 442,
             "owner": "gephi",
             "repo": "gephi",
-            "stars": 6625
+            "stars": 6625,
+            "topics": [
+              "graph",
+              "graph-analytics",
+              "interactive",
+              "java",
+              "opengl",
+              "visualization"
+            ]
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -2868,12 +4804,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A damn-sexy, open source real-time dashboard builder for IOT and other web mashups. A free open-source alternative to Geckoboard.",
+            "homepage": "http://freeboard.io",
             "id": 11726302,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-09-23T21:14:02Z",
+            "open_issues": 166,
             "owner": "Freeboard",
             "repo": "freeboard",
-            "stars": 6505
+            "stars": 6505,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -2884,12 +4825,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cubism.js: A JavaScript library for time series visualization.",
+            "homepage": "https://square.github.com/cubism/",
             "id": 3859306,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2025-04-01T04:55:15Z",
+            "open_issues": 42,
             "owner": "square",
             "repo": "cubism",
-            "stars": 4926
+            "stars": 4926,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -2900,12 +4846,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🍰 Progressive <svg> pie, donut, bar and line charts",
+            "homepage": "http://benpickles.github.io/peity",
             "id": 379530,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2024-04-11T10:21:12Z",
+            "open_issues": 23,
             "owner": "benpickles",
             "repo": "peity",
-            "stars": 4214
+            "stars": 4214,
+            "topics": [
+              "chart",
+              "jquery",
+              "jquery-plugin"
+            ]
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -2916,12 +4871,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "DataSphereStudio is a one stop data application development& management portal, covering scenarios including data exchange, desensitization/cleansing, analysis/mining, quality measurement, visualization, and task scheduling.",
+            "homepage": "https://github.com/WeBankFinTech/DataSphereStudio-Doc",
             "id": 223748401,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2025-11-04T09:08:42Z",
+            "open_issues": 362,
             "owner": "WeBankFinTech",
             "repo": "DataSphereStudio",
-            "stars": 3263
+            "stars": 3263,
+            "topics": [
+              "airflow",
+              "atlas",
+              "azkaban",
+              "dataworks",
+              "davinci",
+              "dolphinscheduler",
+              "flink",
+              "governance",
+              "griffin",
+              "hadoop",
+              "hive",
+              "hue",
+              "kettle",
+              "linkis",
+              "spark",
+              "supperset",
+              "tableau",
+              "visualis",
+              "workflow",
+              "zeppelin"
+            ]
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -2932,12 +4913,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Web UI for PrestoDB.",
+            "homepage": "http://airbnb.github.io/airpal",
             "id": 19467101,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2021-05-20T15:39:40Z",
+            "open_issues": 87,
             "owner": "airbnb",
             "repo": "airpal",
-            "stars": 2743
+            "stars": 2743,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -2948,12 +4934,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a graph visualization library using web workers and jQuery",
+            "homepage": "http://arborjs.org",
             "id": 1246599,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2020-04-10T22:24:22Z",
+            "open_issues": 56,
             "owner": "samizdatco",
             "repo": "arbor",
-            "stars": 2658
+            "stars": 2658,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -2964,12 +4955,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🌀 AI-native framework for building data portals. Scaffold a full portal from a brief and load datasets in minutes with agentic skills — any backend (CKAN, GitHub, Frictionless).",
+            "homepage": "https://www.portaljs.com",
             "id": 2579069,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-25T07:16:45Z",
+            "open_issues": 73,
             "owner": "datopian",
             "repo": "portaljs",
-            "stars": 2346
+            "stars": 2346,
+            "topics": [
+              "agent-skills",
+              "ai",
+              "ai-agents",
+              "ckan",
+              "claude-code",
+              "data-mesh",
+              "data-portal",
+              "datahub",
+              "dataverse",
+              "dkan",
+              "mcp",
+              "nextjs",
+              "open-data",
+              "open-data-portal",
+              "opendatasoft",
+              "openmetadata",
+              "skills",
+              "socrata"
+            ]
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -2980,12 +4995,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Dynamic HTML5 visualization",
+            "homepage": "http://www.humblesoftware.com/envision",
             "id": 850139,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2020-04-10T22:29:11Z",
+            "open_issues": 24,
             "owner": "HumbleSoftware",
             "repo": "envisionjs",
-            "stars": 1553
+            "stars": 1553,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -2996,12 +5016,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Compose complex, data-driven visualizations from reusable charts and components with d3",
+            "homepage": "http://CSNW.github.io/d3.compose/",
             "id": 17517291,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-12-10T17:12:27Z",
+            "open_issues": 18,
             "owner": "CSNW",
             "repo": "d3.compose",
-            "stars": 695
+            "stars": 695,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -3012,12 +5037,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Banana for Solr - A Port of Kibana ",
+            "homepage": null,
             "id": 14594598,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-05-28T02:44:50Z",
+            "open_issues": 109,
             "owner": "lucidworks",
             "repo": "banana",
-            "stars": 673
+            "stars": 673,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -3028,12 +5058,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "DEPRECATED. Zeppelin has moved to Apache. Please make pull request there",
+            "homepage": "https://github.com/apache/incubator-zeppelin",
             "id": 10780607,
             "language": null,
+            "license": null,
             "last_commit": "2017-07-05T13:18:54Z",
+            "open_issues": 81,
             "owner": "ZEPL",
             "repo": "zeppelin",
-            "stars": 404
+            "stars": 404,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -3044,12 +5079,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Legacy Chartist Repo for old gh-pages",
+            "homepage": null,
             "id": 522068509,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-05-06T19:56:44Z",
+            "open_issues": 11,
             "owner": "gionkunz",
             "repo": "chartist-js",
-            "stars": 96
+            "stars": 96,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -3060,12 +5100,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Web UI for Impala",
+            "homepage": null,
             "id": 56202147,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2017-03-17T15:24:09Z",
+            "open_issues": 0,
             "owner": "ufukomer",
             "repo": "bloomery",
-            "stars": 18
+            "stars": 18,
+            "topics": [
+              "impala",
+              "node-impala",
+              "react",
+              "redux",
+              "thrift",
+              "web-ui"
+            ]
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         }
@@ -3082,12 +5134,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]",
+            "homepage": null,
             "id": 21737465,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-08-21T12:39:13Z",
+            "open_issues": 105,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 500849
+            "stars": 500890,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "lists",
+              "resources",
+              "unicorns"
+            ]
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -3098,12 +5161,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A topic-centric list of HQ open datasets.",
+            "homepage": "https://awesomedataworld.slack.com",
             "id": 26898879,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-08-28T16:22:22Z",
+            "open_issues": 159,
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 78693
+            "stars": 78694,
+            "topics": [
+              "aaron-swartz",
+              "awesome-public-datasets",
+              "datasets",
+              "opendata"
+            ]
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -3114,12 +5187,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome awesomeness",
+            "homepage": null,
             "id": 21600440,
             "language": "Ruby",
+            "license": null,
             "last_commit": "2024-06-02T22:46:41Z",
+            "open_issues": 61,
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33634
+            "stars": 33634,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -3130,12 +5208,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The definitive list of lists (of lists) curated on GitHub and elsewhere",
+            "homepage": null,
             "id": 14408715,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-03-23T20:19:22Z",
+            "open_issues": 22,
             "owner": "jnv",
             "repo": "lists",
-            "stars": 11441
+            "stars": 11441,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "curated-lists",
+              "lists",
+              "resources"
+            ]
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -3146,12 +5235,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of important graph embedding, classification and representation learning papers with implementations.",
+            "homepage": null,
             "id": 140943444,
             "language": "Python",
+            "license": "CC0-1.0",
             "last_commit": "2023-03-18T12:10:08Z",
+            "open_issues": 0,
             "owner": "benedekrozemberczki",
             "repo": "awesome-graph-classification",
-            "stars": 4801
+            "stars": 4801,
+            "topics": [
+              "attention-mechanism",
+              "classification-algorithm",
+              "deep-graph-kernels",
+              "deepwalk",
+              "graph-attention-model",
+              "graph-attention-networks",
+              "graph-classification",
+              "graph-convolutional-networks",
+              "graph-embedding",
+              "graph-kernel",
+              "graph-kernels",
+              "graph-representation-learning",
+              "graph2vec",
+              "kernel-methods",
+              "netlsd",
+              "network-embedding",
+              "node-embedding",
+              "node2vec",
+              "structural-attention",
+              "weisfeiler-lehman"
+            ]
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -3162,12 +5277,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of analytics frameworks, software and other tools.",
+            "homepage": "https://github.com/onurakpolat/awesome-analytics",
             "id": 21604034,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-02-17T15:25:51Z",
+            "open_issues": 56,
             "owner": "oxnr",
             "repo": "awesome-analytics",
-            "stars": 4308
+            "stars": 4308,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -3178,12 +5298,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of network embedding techniques.",
+            "homepage": null,
             "id": 74880098,
             "language": null,
+            "license": null,
             "last_commit": "2020-12-08T09:34:45Z",
+            "open_issues": 4,
             "owner": "chihming",
             "repo": "awesome-network-embedding",
-            "stars": 2627
+            "stars": 2627,
+            "topics": [
+              "graph-embeddings",
+              "knowledge-graph",
+              "network-embedding",
+              "representation-learning"
+            ]
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -3194,12 +5324,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of research papers on decision, classification and regression trees with implementations.",
+            "homepage": null,
             "id": 186166778,
             "language": "Python",
+            "license": "CC0-1.0",
             "last_commit": "2025-12-28T23:17:27Z",
+            "open_issues": 3,
             "owner": "benedekrozemberczki",
             "repo": "awesome-decision-tree-papers",
-            "stars": 2473
+            "stars": 2473,
+            "topics": [
+              "cart",
+              "catboost",
+              "classification-model",
+              "classification-trees",
+              "classifier",
+              "decision-tree",
+              "decision-tree-classifier",
+              "decision-tree-learning",
+              "decision-tree-model",
+              "ensemble-learning",
+              "gradient-boosting",
+              "gradient-boosting-machine",
+              "lightgbm",
+              "machine-learning",
+              "machine-learning-research",
+              "random-forest",
+              "regression-tree",
+              "statistical-learning",
+              "tree-ensemble",
+              "xgboost"
+            ]
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -3210,12 +5366,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of community detection research papers with implementations. ",
+            "homepage": null,
             "id": 152444880,
             "language": "Python",
+            "license": "CC0-1.0",
             "last_commit": "2025-12-20T17:06:00Z",
+            "open_issues": 0,
             "owner": "benedekrozemberczki",
             "repo": "awesome-community-detection",
-            "stars": 2450
+            "stars": 2450,
+            "topics": [
+              "bigclam",
+              "clustering",
+              "community-detection",
+              "data-science",
+              "deep-learning",
+              "deepwalk",
+              "dimensionality-reduction",
+              "embedding",
+              "factorization",
+              "graph-clustering",
+              "igraph",
+              "machine-learning",
+              "matrix-factorization",
+              "network-analysis",
+              "network-clustering",
+              "network-science",
+              "networkx",
+              "node2vec",
+              "social-network",
+              "unsupervised-learning"
+            ]
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -3226,12 +5408,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":octocat: A a curated list of curated lists of awesome lists.",
+            "homepage": null,
             "id": 21791117,
             "language": null,
+            "license": null,
             "last_commit": "2023-11-13T08:24:12Z",
+            "open_issues": 5,
             "owner": "t3chnoboy",
             "repo": "awesome-awesome-awesome",
-            "stars": 2243
+            "stars": 2243,
+            "topics": [
+              "awesome",
+              "awesome-list"
+            ]
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -3242,12 +5432,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of data mining papers about fraud detection.",
+            "homepage": null,
             "id": 188821801,
             "language": "Python",
+            "license": "CC0-1.0",
             "last_commit": "2026-01-05T12:28:59Z",
+            "open_issues": 2,
             "owner": "benedekrozemberczki",
             "repo": "awesome-fraud-detection-papers",
-            "stars": 1827
+            "stars": 1827,
+            "topics": [
+              "churn",
+              "classification",
+              "classifier",
+              "credit-card-fraud",
+              "credit-card-fraud-detection",
+              "credit-card-validation",
+              "credit-scoring",
+              "data-mining",
+              "data-science",
+              "deep-learning",
+              "fraud-checker",
+              "fraud-detection",
+              "fraud-explorer",
+              "fraud-management",
+              "fraud-prevention",
+              "gradient-boosting",
+              "graph-classification",
+              "link-prediction",
+              "logistic-regression",
+              "random-forest"
+            ]
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -3258,12 +5474,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of gradient boosting research papers with implementations. ",
+            "homepage": null,
             "id": 186163475,
             "language": "Python",
+            "license": "CC0-1.0",
             "last_commit": "2026-01-05T12:39:45Z",
+            "open_issues": 3,
             "owner": "benedekrozemberczki",
             "repo": "awesome-gradient-boosting-papers",
-            "stars": 1049
+            "stars": 1049,
+            "topics": [
+              "adaboost",
+              "boosting",
+              "catboost",
+              "classification-algorithm",
+              "classification-tree",
+              "classification-trees",
+              "classifier",
+              "decision-tree",
+              "deep-learning",
+              "gradient-boosted-trees",
+              "gradient-boosting",
+              "gradient-boosting-classifier",
+              "gradient-boosting-decision-trees",
+              "gradient-boosting-machine",
+              "h2o",
+              "lightgbm",
+              "machine-learning",
+              "random-forest",
+              "xgboost",
+              "xgboost-algorithm"
+            ]
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -3274,12 +5516,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open Source Data Annotation & Labeling Tools",
+            "homepage": null,
             "id": 500116286,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-06T19:31:47Z",
+            "open_issues": 2,
             "owner": "zenml-io",
             "repo": "awesome-open-data-annotation",
-            "stars": 725
+            "stars": 725,
+            "topics": [
+              "ai",
+              "annotation",
+              "datacentric",
+              "labelled-data",
+              "labelling",
+              "machine-learning",
+              "mlops"
+            ]
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -3290,12 +5545,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of Monte Carlo tree search papers with implementations. ",
+            "homepage": null,
             "id": 223468637,
             "language": "Python",
+            "license": "CC0-1.0",
             "last_commit": "2026-01-13T10:28:51Z",
+            "open_issues": 0,
             "owner": "benedekrozemberczki",
             "repo": "awesome-monte-carlo-tree-search-papers",
-            "stars": 714
+            "stars": 714,
+            "topics": [
+              "atari",
+              "deep-learning",
+              "deep-q-learning",
+              "learning",
+              "machine-learning",
+              "machine-learning-algorithms",
+              "monte-carlo",
+              "monte-carlo-tree-search",
+              "policy-evaluation",
+              "policy-gradient",
+              "q-learning",
+              "reinforcement-learning",
+              "reinforcement-learning-agent",
+              "reinforcement-learning-algorithms",
+              "rl",
+              "tree-search"
+            ]
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -3306,12 +5583,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of kafka-resources",
+            "homepage": null,
             "id": 163455001,
             "language": null,
+            "license": null,
             "last_commit": "2026-05-13T16:57:56Z",
+            "open_issues": 1,
             "owner": "monksy",
             "repo": "awesome-kafka",
-            "stars": 216
+            "stars": 216,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "awesome-lists",
+              "kafka",
+              "kafka-streams"
+            ]
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         },
@@ -3322,12 +5610,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":zap: Delightful list of Google Bigtable resources, packages and interesting finds.",
+            "homepage": null,
             "id": 166608066,
             "language": null,
+            "license": "MIT",
             "last_commit": "2022-09-19T23:53:36Z",
+            "open_issues": 1,
             "owner": "zrosenbauer",
             "repo": "awesome-bigtable",
-            "stars": 56
+            "stars": 56,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "bigtable",
+              "google-bigtable",
+              "google-cloud-platform"
+            ]
           },
           "first_seen": "2026-08-28T23:35:56.786Z"
         }
@@ -3336,15 +5635,36 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T23:35:56.786Z",
+    "last_updated": "2026-08-29T04:15:10.473Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome big data frameworks, ressources and other awesomeness.",
+      "homepage": "https://github.com/onurakpolat/awesome-bigdata",
       "id": 21500692,
       "language": null,
+      "license": "MIT",
       "last_commit": "2026-07-31T12:51:12Z",
+      "open_issues": 4,
       "owner": "oxnr",
       "repo": "awesome-bigdata",
-      "stars": 14600
+      "stars": 14600,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "bigdata",
+        "data",
+        "data-analytics",
+        "data-science",
+        "data-stream",
+        "data-visualization",
+        "data-warehouse",
+        "database",
+        "distributed-database",
+        "series-database",
+        "stream-processing",
+        "streaming-data",
+        "visualize-data"
+      ]
     },
     "original_repository_sha": "e316edaa36dd9cbd47743c76b0414da2ff92299d",
     "enhanced_repository": "enhansome/enhansome-bigdata",
